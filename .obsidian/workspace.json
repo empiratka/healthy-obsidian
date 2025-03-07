@@ -1,0 +1,267 @@
+{
+  "main": {
+    "id": "51ce0e34f7c6e01f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a2756ba16c59a5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56983bf4719844e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "TODO"
+            }
+          },
+          {
+            "id": "164d91b91e4a7d5c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b91ce5036d27a3bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7674c87960ca113",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e580124986e404b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a5d3cfb30f84474f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "тирамин",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3f543fb1b7830752",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "356b896313af314e",
+            "type": "leaf",
+            "state": {
+              "type": "trash-explorer",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 254.5
+  },
+  "right": {
+    "id": "f3519d4691b568de",
+    "type": "split",
+    "children": [
+      {
+        "id": "47ec086f1107e74d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51587e645a344486",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Workspace/Projects/Здоровье/Питание/Соединения/Лектины.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Лектины"
+            }
+          },
+          {
+            "id": "5f06f34424de08a5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Workspace/Projects/Здоровье/Питание/Соединения/Лектины.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Лектины"
+            }
+          },
+          {
+            "id": "cf8b3559d2f85aad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "17aafc52346c7210",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Workspace/Projects/Здоровье/Питание/Соединения/Лектины.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Лектины"
+            }
+          },
+          {
+            "id": "5449db53eb4195bf",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 246.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-trash-explorer:Open trash explorer": false,
+      "janitor:Janitor: scan vault": false
+    }
+  },
+  "active": "164d91b91e4a7d5c",
+  "lastOpenFiles": [
+    "README.md",
+    "00Plan.md",
+    "README.md.md",
+    "01План проекта.md",
+    "Project/Другое/Исследования потерянные.md",
+    "Project/Другое/Мое мнение/Рецепты.md",
+    "Project/1Питание/Продукты/Бобовые/Соя/Соевые продукты.md",
+    "Project/1Питание/Продукты/Бобовые/Соя/Соя.md",
+    "Project/1Питание/Продукты/Напитки/Газированная вода.md",
+    "Project/Другое/Специфическое/Нержавейка.md",
+    "Project/Другое/Специфическое/Наркотики в еде.md",
+    "Project/Другое/Специфическое/Хранение косметики.md",
+    "Project/Другое/Специфическое/Электроника.md",
+    "Project/1Питание/Продукты/Бобовые/Соя/Соевый соус.md",
+    "Project/1Питание/Общие риски.md",
+    "Project/1Питание/Продукты/Зерновые/Зерновые.md",
+    "Project/1Питание/Продукты/Бобовые/Сухие/Бобовые сухие.md",
+    "Project/1Питание/Продукты/Бобовые/Бобовые.md",
+    "Project/1Питание/Продолжительность жизни.md",
+    "Res/Files/Pasted image 20250302022538.png",
+    "Res/Files/Pasted image 20250302022527.png",
+    "TODO.md",
+    "Project/0Справка/Справка по научным статьям.md",
+    "Project/0Справка/Статьи/Carob. A Sustainable Opportunity for Metabolic Health.md",
+    "Project/0Справка/Статьи/Gluten-free food database. the nutritional quality and cost of packaged gluten-free foods.md",
+    "Project/1Питание/Диеты/Безглютеновая диета.md",
+    "Res/Templates/Papper template.md",
+    "Res/Templates/Product template.md",
+    "Res/Files/Pasted image 20250221220245.png",
+    "Res/Files/Pasted image 20250221220237.png",
+    "Project/0Справка/Статьи",
+    "Project/1Питание/Приготовление/Ферментация/Маринование",
+    "Res/Files/Pasted image 20231019223406.png.~tmp",
+    "Project/1Питание/Приготовление/Замачивание",
+    "Project/1Питание/Приготовление/Пассерование",
+    "Project/1Питание/Приготовление/Отваривание",
+    "Project/1Питание/Приготовление/Ферментация",
+    "Project/1Питание/Приготовление",
+    "Project/1Питание/Untitled.canvas",
+    "Res/Files/Pasted image 20250205194220.png",
+    "Res/Files/Pasted image 20250205192959.png",
+    "Res/Files/Pasted image 20250205192019.png",
+    "Res/Files/Pasted image 20250205191405.png",
+    "Res/Files/Pasted image 20250205191208.png",
+    "Res/Files/Pasted image 20250204193905.png",
+    "Project/5Части организма/Микрофлора",
+    "Project/5Части организма/Гормоны/Метаболические гормоны",
+    "Untitled.canvas"
+  ]
+}

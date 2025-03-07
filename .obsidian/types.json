@@ -1,0 +1,15 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Colour": "multitext",
+    "Type": "multitext",
+    "Pattern": "multitext",
+    "Counter": "number",
+    "Job": "multitext",
+    "Location": "multitext",
+    "link": "multitext",
+    "MBTI": "multitext"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "path:Project ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"Project/4Состояние организма\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:Project/1Питание/Продукты  ",
+      "color": {
+        "a": 1,
+        "rgb": 10803474
+      }
+    },
+    {
+      "query": "path:\"Project/5Части организма\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6007035
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -1.3,
+  "nodeSizeMultiplier": 1.06650207900208,
+  "lineSizeMultiplier": 0.638643451143451,
+  "collapse-forces": true,
+  "centerStrength": 0.351111111111111,
+  "repelStrength": 15.1383703703704,
+  "linkStrength": 0.624177777777778,
+  "linkDistance": 30,
+  "scale": 0.07680290438277511,
+  "close": true
+}

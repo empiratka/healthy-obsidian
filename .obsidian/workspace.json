@@ -32,15 +32,17 @@
             }
           },
           {
-            "id": "164d91b91e4a7d5c",
+            "id": "f921ca7cd77ec060",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.9"
+                "file": "Project/2Спорт/Упражнения VILPA.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "icon": "lucide-file",
+              "title": "Упражнения VILPA"
             }
           }
         ],
@@ -213,8 +215,25 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "164d91b91e4a7d5c",
+  "active": "f921ca7cd77ec060",
   "lastOpenFiles": [
+    "Res/Templates/Papper template.md",
+    "Project/0Справка/Статьи/Association of wearable device-measured vigorous intermittent lifestyle physical activity with mortality.md",
+    "Project/2Спорт/Упражнения VILPA.md",
+    "Project/2Спорт/Спорт.md",
+    "Project/2Спорт/Отдых.md",
+    "Project/2Спорт/Голосовые связки.md",
+    "TODO.md",
+    "Project/1Питание/Продукты гликирования.md",
+    "Project/0Справка/Статьи/Assessment of the Concentrations of Various Advanced Glycation End-Products in Beverages and Foods That Are Commonly Consumed in Japan.md",
+    "Project/4Состояние организма/Старение.md",
+    "Res/Files/Pasted image 20241010214423.png.~tmp",
+    "Res/Files/Pasted image 20241010214453.png.~tmp",
+    "Res/Files/Pasted image 20250307223603.png",
+    "Res/Files/Pasted image 20250307223544.png",
+    "Project/0Справка/Статьи/Carob. A Sustainable Opportunity for Metabolic Health.md",
+    "Project/0Справка/Справка по научным статьям.md",
+    "Project/0Справка/Статьи/Gluten-free food database. the nutritional quality and cost of packaged gluten-free foods.md",
     "README.md",
     "00Plan.md",
     "README.md.md",
@@ -228,21 +247,8 @@
     "Project/Другое/Специфическое/Наркотики в еде.md",
     "Project/Другое/Специфическое/Хранение косметики.md",
     "Project/Другое/Специфическое/Электроника.md",
-    "Project/1Питание/Продукты/Бобовые/Соя/Соевый соус.md",
-    "Project/1Питание/Общие риски.md",
-    "Project/1Питание/Продукты/Зерновые/Зерновые.md",
-    "Project/1Питание/Продукты/Бобовые/Сухие/Бобовые сухие.md",
-    "Project/1Питание/Продукты/Бобовые/Бобовые.md",
-    "Project/1Питание/Продолжительность жизни.md",
     "Res/Files/Pasted image 20250302022538.png",
     "Res/Files/Pasted image 20250302022527.png",
-    "TODO.md",
-    "Project/0Справка/Справка по научным статьям.md",
-    "Project/0Справка/Статьи/Carob. A Sustainable Opportunity for Metabolic Health.md",
-    "Project/0Справка/Статьи/Gluten-free food database. the nutritional quality and cost of packaged gluten-free foods.md",
-    "Project/1Питание/Диеты/Безглютеновая диета.md",
-    "Res/Templates/Papper template.md",
-    "Res/Templates/Product template.md",
     "Res/Files/Pasted image 20250221220245.png",
     "Res/Files/Pasted image 20250221220237.png",
     "Project/0Справка/Статьи",
@@ -258,10 +264,6 @@
     "Res/Files/Pasted image 20250205192959.png",
     "Res/Files/Pasted image 20250205192019.png",
     "Res/Files/Pasted image 20250205191405.png",
-    "Res/Files/Pasted image 20250205191208.png",
-    "Res/Files/Pasted image 20250204193905.png",
-    "Project/5Части организма/Микрофлора",
-    "Project/5Части организма/Гормоны/Метаболические гормоны",
     "Untitled.canvas"
   ]
 }

@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"Project/4Состояние организма\"  ",
@@ -39,6 +39,6 @@
   "repelStrength": 15.1383703703704,
   "linkStrength": 0.624177777777778,
   "linkDistance": 30,
-  "scale": 0.07680290438277511,
+  "scale": 2.443560264137142,
   "close": true
 }

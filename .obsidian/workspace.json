@@ -4,16 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "7a2756ba16c59a5c",
+        "id": "5a2b8676d6b9b58f",
         "type": "tabs",
         "children": [
           {
-            "id": "56983bf4719844e1",
+            "id": "14d4f9d8c0f8145a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Project/2Спорт/Общая нагрузка.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Общая нагрузка"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1199a34450b56e03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cd0917f1647ceec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/2Спорт/Спорт.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,25 +48,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TODO"
-            }
-          },
-          {
-            "id": "f921ca7cd77ec060",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project/2Спорт/Упражнения VILPA.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Упражнения VILPA"
+              "title": "Спорт"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "тирамин",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -215,55 +220,55 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "f921ca7cd77ec060",
+  "active": "5cd0917f1647ceec",
   "lastOpenFiles": [
-    "Res/Templates/Papper template.md",
-    "Project/0Справка/Статьи/Association of wearable device-measured vigorous intermittent lifestyle physical activity with mortality.md",
-    "Project/2Спорт/Упражнения VILPA.md",
+    "Project/6Измерения/Пульс.md",
     "Project/2Спорт/Спорт.md",
     "Project/2Спорт/Отдых.md",
-    "Project/2Спорт/Голосовые связки.md",
-    "TODO.md",
-    "Project/1Питание/Продукты гликирования.md",
-    "Project/0Справка/Статьи/Assessment of the Concentrations of Various Advanced Glycation End-Products in Beverages and Foods That Are Commonly Consumed in Japan.md",
-    "Project/4Состояние организма/Старение.md",
+    "Project/2Спорт/Продолжительность.md",
+    "Project/2Спорт/Общая нагрузка.md",
+    "Project/2Спорт/Минимальная нагрузка.md",
+    "Project/2Спорт/Время для спорта.md",
+    "Project/2Спорт/Интенсивность.md",
+    "Project/6Измерения/Вес.md",
+    "Res/Files/Pasted image 20250314220612.png",
+    "Res/Files/Pasted image 20250314220609.png",
+    "Res/Files/Pasted image 20250314214950.png",
+    "Res/Files/Pasted image 20250314212224.png",
+    "Project/6Измерения/МЕТ.md",
+    "Res/Files/Pasted image 20250314200923.png",
+    "Res/Files/Pasted image 20250314200638.png.~tmp",
+    "Res/Files/Pasted image 20250314200638.png",
+    "Project/2Спорт/Упражнения/Бег.md",
+    "Project/2Спорт/Упражнения/Упражнения VILPA.md",
+    "Project/2Спорт/Упражнения/Ходьба.md",
+    "Res/Files/Pasted image 20240616192553.png.~tmp",
+    "Res/Files/Pasted image 20250314151229.png",
+    "Res/Files/Pasted image 20250314150811.png",
+    "Project/1Питание/Продукты/Зерновые/Хлеб.md",
+    "Project/1Питание/Продукты/Зерновые/Ячмень.md",
+    "Project/1Питание/Продукты/Овощи/Стручковая фасоль.md",
+    "Project/1Питание/Продукты/Овощи/Грибы.md",
+    "Project/1Питание/Продукты/Овощи/Овощи.md",
+    "Project/1Питание/Продукты/Овощи/Тыквенные/Огурец.md",
+    "Project/1Питание/Продукты/Овощи/Салат",
+    "Project/1Питание/Продукты/Овощи/Untitled.md",
+    "Project/1Питание/Соединения/Пестициды.md",
+    "Project/1Питание/Продукты/Овощи/Тыквенные",
+    "Res/Files/Pasted image 20250311222736.png",
+    "Res/Files/Pasted image 20250311222514.png",
+    "README.md",
+    "Project/0Справка/Статьи/Gluten-free food database. the nutritional quality and cost of packaged gluten-free foods.md",
+    "Project/1Питание/Прием пищи/2 Обед.md",
+    "Project/1Питание/ЗОЖ.md",
+    "Project/0Справка/Статьи/Association of wearable device-measured vigorous intermittent lifestyle physical activity with mortality.md",
+    "Project/1Питание/Продукты/Овощи/Луковые",
+    "Project/1Питание/Продукты/Напитки/Травяные чаи",
+    "Project/1Питание/Продукты/Овощи/Зонтичные",
+    "Project/2Спорт/Упражнения",
     "Res/Files/Pasted image 20241010214423.png.~tmp",
     "Res/Files/Pasted image 20241010214453.png.~tmp",
-    "Res/Files/Pasted image 20250307223603.png",
-    "Res/Files/Pasted image 20250307223544.png",
-    "Project/0Справка/Статьи/Carob. A Sustainable Opportunity for Metabolic Health.md",
-    "Project/0Справка/Справка по научным статьям.md",
-    "Project/0Справка/Статьи/Gluten-free food database. the nutritional quality and cost of packaged gluten-free foods.md",
-    "README.md",
-    "00Plan.md",
-    "README.md.md",
-    "01План проекта.md",
-    "Project/Другое/Исследования потерянные.md",
-    "Project/Другое/Мое мнение/Рецепты.md",
-    "Project/1Питание/Продукты/Бобовые/Соя/Соевые продукты.md",
-    "Project/1Питание/Продукты/Бобовые/Соя/Соя.md",
-    "Project/1Питание/Продукты/Напитки/Газированная вода.md",
-    "Project/Другое/Специфическое/Нержавейка.md",
-    "Project/Другое/Специфическое/Наркотики в еде.md",
-    "Project/Другое/Специфическое/Хранение косметики.md",
-    "Project/Другое/Специфическое/Электроника.md",
-    "Res/Files/Pasted image 20250302022538.png",
-    "Res/Files/Pasted image 20250302022527.png",
-    "Res/Files/Pasted image 20250221220245.png",
-    "Res/Files/Pasted image 20250221220237.png",
-    "Project/0Справка/Статьи",
-    "Project/1Питание/Приготовление/Ферментация/Маринование",
-    "Res/Files/Pasted image 20231019223406.png.~tmp",
-    "Project/1Питание/Приготовление/Замачивание",
-    "Project/1Питание/Приготовление/Пассерование",
-    "Project/1Питание/Приготовление/Отваривание",
-    "Project/1Питание/Приготовление/Ферментация",
-    "Project/1Питание/Приготовление",
     "Project/1Питание/Untitled.canvas",
-    "Res/Files/Pasted image 20250205194220.png",
-    "Res/Files/Pasted image 20250205192959.png",
-    "Res/Files/Pasted image 20250205192019.png",
-    "Res/Files/Pasted image 20250205191405.png",
     "Untitled.canvas"
   ]
 }

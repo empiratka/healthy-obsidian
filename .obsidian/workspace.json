@@ -4,16 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "5a2b8676d6b9b58f",
+        "id": "15815e6ff1e544fd",
         "type": "tabs",
+        "dimension": 51.899757477768794,
         "children": [
           {
-            "id": "0292b6f11a7c3df8",
+            "id": "0c27786bd1cb7896",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/1Питание/Продукты/Овощи/Грибы.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Грибы"
+            }
+          },
+          {
+            "id": "3832d6370b2a3131",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/5Части организма/Зрение.md",
+                "file": "Project/1Питание/Диеты/Раздельное питание.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,42 +45,45 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Зрение"
-            }
-          },
-          {
-            "id": "5608004a31b3bffb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project/4Состояние организма/Болезни зрения/Близорукость.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Близорукость"
+              "title": "Раздельное питание"
             }
           }
         ],
         "currentTab": 1
       },
       {
-        "id": "7de4c5a4dd48a45d",
+        "id": "dd03654d045fb5fb",
         "type": "tabs",
+        "dimension": 48.100242522231206,
         "children": [
           {
-            "id": "fd59ad222a864a56",
+            "id": "d2c5486cf5f966c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/2Спорт/Упражнения/Упражнения для зрения.md",
+                "file": "Project/1Питание/Продукты/Водоросли/Спирулина.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Упражнения для зрения"
+              "title": "Спирулина"
+            }
+          },
+          {
+            "id": "3fe74f1e352fbd0d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/1Питание/Соединения/Витамины/Витамины долголетия/Ergothioneine.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Ergothioneine"
             }
           }
         ]
@@ -129,8 +149,7 @@
               "title": "Plugin no longer active"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -236,54 +255,54 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "5608004a31b3bffb",
+  "active": "3832d6370b2a3131",
   "lastOpenFiles": [
-    "Project/5Части организма/Зрение.md",
-    "Project/4Состояние организма/Болезни зрения/Близорукость.md",
-    "Project/4Состояние организма/Болезни зрения/Куриная слепота.md",
-    "Project/2Спорт/Упражнения/Упражнения для зрения.md",
-    "Project/4Состояние организма/Болезни зрения/Дегенерация макулы ВМД.md",
-    "Project/5Части организма/Мышцы/Голосовые связки.md",
-    "Project/2Спорт/Упражнения/Упражнения для голосовых связок.md",
-    "Project/2Спорт/Упражнения/Выносливость/Выносливость.md",
-    "Project/2Спорт/Спорт.md",
-    "Project/2Спорт/Сидячий образ жизни.md",
-    "Project/2Спорт/Регулярность спорта.md",
+    "Project/4Состояние организма/Паразиты/Глисты.md",
+    "Project/1Питание/Продукты/Овощи/Зонтичные/Петрушка.md",
+    "Project/1Питание/Продукты/Орехи и семечки/Замачивание орехов.md",
+    "Project/1Питание/Соединения/Витамины/B6.md",
+    "Project/1Питание/Соединения/Белок/Аминокислоты/Метионин.md",
+    "Project/1Питание/Продукты/Фрукты/Киви.md",
+    "Project/1Питание/Продукты/Специи/Кардамон.md",
+    "Project/1Питание/Соединения/Холестерин/Холестерин.md",
+    "Project/6Измерения/% жира.md",
+    "Project/4Состояние организма/Аутоиммунные заболевания/Аутоиммунные заболевания.md",
+    "Project/2Спорт/Время для спорта.md",
+    "Project/2Спорт/Интенсивность.md",
+    "Project/2Спорт/Минимальная нагрузка.md",
     "Project/2Спорт/Общая нагрузка.md",
     "Project/2Спорт/Продолжительность.md",
-    "Project/2Спорт/Минимальная нагрузка.md",
-    "Project/2Спорт/Интенсивность.md",
-    "Project/2Спорт/Время для спорта.md",
-    "Project/2Спорт/Упражнения/Упражнения с высокой координацией.md",
-    "Project/5Части организма/Иммунитет.md",
-    "Project/5Части организма/Зубы.md",
-    "Project/5Части организма/Кости.md",
-    "Project/5Части организма/Кровь.md",
-    "Project/5Части организма/Липопротеинлипаза.md",
-    "Project/5Части организма/Мышечно-жировой баланс.md",
-    "Project/5Части организма/Печень.md",
-    "Project/5Части организма/Простата.md",
-    "Project/5Части организма/Сердечно-сосудистая система.md",
+    "Project/2Спорт/Регулярность спорта.md",
+    "Project/2Спорт/Спорт.md",
+    "Project/4Состояние организма/Низкая подвижность.md",
+    "Project/4Состояние организма/Удовольствие.md",
+    "Project/4Состояние организма/Старение.md",
+    "Project/4Состояние организма/Системное воспаление организма.md",
+    "Project/4Состояние организма/Рак.md",
+    "Project/2Спорт/Сидячий образ жизни.md",
+    "Project/1Питание/Продукты/Овощи/Корнеплоды/Свекла.md",
+    "Project/1Питание/Продукты/Овощи/Грибы.md",
+    "Project/1Питание/Продукты/Водоросли/Спирулина.md",
+    "Project/1Питание/Соединения/Витамины/Витамины долголетия",
+    "Res/Files/Pasted image 20250317204350.png",
+    "Res/Files/Pasted image 20250317204330.png",
+    "Res/Files/Pasted image 20250317195002.png",
+    "Res/Files/Pasted image 20250317193547.png",
+    "Res/Files/Pasted image 20250317200811.png.~tmp",
+    "Res/Files/Pasted image 20250317200811.png",
+    "Res/Files/Pasted image 20250317200510.png",
+    "Res/Files/Pasted image 20250317200428.png",
+    "Res/Files/Pasted image 20250317200328.png",
+    "Project/2Спорт/Упражнения/Упражнения для зрения",
+    "Res/Files/Pasted image 20250317190911.png",
+    "Res/Files/Pasted image 20250317190845.png",
+    "Project/1Питание/Продукты/Водоросли",
     "Project/2Спорт/Упражнения/Упражнения для зрения",
     "Project/5Части организма/Мышцы",
-    "Res/Files/Pasted image 20250316194451.png",
     "Project/2Спорт/Упражнения/Сила",
     "Project/2Спорт/Упражнения/Выносливость",
-    "Res/Files/Pasted image 20250314220612.png",
-    "Res/Files/Pasted image 20250314220609.png",
-    "Res/Files/Pasted image 20250314214950.png",
-    "Res/Files/Pasted image 20250314212224.png",
-    "Res/Files/Pasted image 20250314200923.png",
     "Res/Files/Pasted image 20250314200638.png.~tmp",
-    "Res/Files/Pasted image 20250314200638.png",
     "Res/Files/Pasted image 20240616192553.png.~tmp",
-    "Res/Files/Pasted image 20250314151229.png",
-    "Res/Files/Pasted image 20250314150811.png",
-    "Project/1Питание/Продукты/Овощи/Салат",
-    "Project/1Питание/Продукты/Овощи/Тыквенные",
-    "Res/Files/Pasted image 20250311222736.png",
-    "Project/1Питание/Продукты/Овощи/Луковые",
-    "Project/1Питание/Продукты/Напитки/Травяные чаи",
     "Project/1Питание/Untitled.canvas",
     "Untitled.canvas"
   ]

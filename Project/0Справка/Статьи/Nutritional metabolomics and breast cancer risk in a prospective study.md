@@ -1,8 +1,6 @@
 ---
 link:
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC5525118
-todo:
-  - Done
 ---
 ## Abstract
 

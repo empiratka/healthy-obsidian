@@ -1,8 +1,6 @@
 ---
 link:
   - https://www.nature.com/articles/s41746-022-00676-9
-todo:
-  - Done
 ---
 ## Abstract
 

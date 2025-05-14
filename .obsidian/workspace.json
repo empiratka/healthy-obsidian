@@ -4,38 +4,65 @@
     "type": "split",
     "children": [
       {
-        "id": "011eaa6322f4ccc6",
+        "id": "edb6665e807ddee3",
         "type": "tabs",
         "children": [
           {
-            "id": "efc041ffb85a148c",
+            "id": "f77bb06bfb090da6",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/6Измерения/Калории.md",
+                "file": "Project/5Части организма/Органы/Ротовая полость.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Калории"
+              "title": "Ротовая полость"
             }
           },
           {
-            "id": "ec99a55c8b52c2cb",
+            "id": "20769b33dd54597a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/4Состояние организма/Бактерии/Хеликобактер.md",
+                "file": "Project/1Питание/Соединения/Аптечные пробиотики.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Хеликобактер"
+              "title": "Аптечные пробиотики"
+            }
+          },
+          {
+            "id": "9d9fcaa9bdc482ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/5Части организма/Органы/Печень.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Печень"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -67,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "youtu",
+                "query": "сахароз",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 282.5
   },
   "right": {
     "id": "f3519d4691b568de",
@@ -204,54 +231,54 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "efc041ffb85a148c",
+  "active": "9d9fcaa9bdc482ec",
   "lastOpenFiles": [
-    "Project/6Измерения/Пульс.md",
-    "Project/6Измерения/Похудение",
-    "Project/6Измерения/Похудение/Обхват талии.md",
-    "Project/6Измерения/Похудение/Обхват бедер.md",
-    "Project/Другое/Мое мнение/Сладости.md",
-    "Project/1Питание/Диеты/Набор массы.md",
-    "Project/1Питание/Продукты/Овощи/Тыквенные/Огурец.md",
-    "Project/1Питание/Продукты/Напитки/Газированная вода.md",
+    "Project/5Части организма/Органы/Мочевыводящие пути.md",
+    "Project/5Части организма/Органы/Легкие.md",
+    "Project/5Части организма/Органы/Кости.md",
+    "Project/5Части организма/Органы/Кожа.md",
+    "Project/5Части организма/Органы/ЖКТ.md",
+    "Project/5Части организма/Органы/Ротовая полость.md",
+    "Project/1Питание/Соединения/Аптечные пробиотики.md",
+    "Project/4Состояние организма/Болезни сердечно-сосудистой системы/Дислипидемия.md",
+    "Project/5Части организма/Жиры.md",
+    "Project/5Части организма/Холестерин/LDL.md",
+    "Project/5Части организма/Холестерин/HDL.md",
+    "Project/1Питание/Продукты/Сахарозаменители/Ксилит.md",
+    "Project/4Состояние организма/Болезни ЖКТ/Запор.md",
+    "Project/1Питание/Продукты/Сахарозаменители/Сахарозаменители.md",
+    "Project/1Питание/Продукты/Сахарозаменители",
     "Project/4Состояние организма/Бактерии/Хеликобактер.md",
-    "Project/1Питание/Продукты/Фрукты/Оливки.md",
-    "Project/Другое/Мое мнение/Мой рацион.md",
-    "Project/Другое/Специфическое/Хранение косметики.md",
-    "Project/1Питание/Приготовление/Ферментация/Ферментация какао-бобов.md",
-    "Project/1Питание/Продукты/Овощи/Зонтичные/Зонтичные.md",
-    "Project/1Питание/Продукты/Овощи/Зонтичные/Тмин.md",
-    "Project/Другое/Специфическое/Нержавейка.md",
-    "Project/Другое/Специфическое/Наркотики в еде.md",
-    "Project/Другое/Специфическое/Электроника.md",
-    "Project/Другое/Мое мнение/Японская кухня.md",
-    "Project/Другое/Мое мнение/Рецепты.md",
-    "Project/Другое/Мое мнение/Оборудование.md",
-    "Project/Другое/Мое мнение/Краткие советы.md",
-    "Project/Другое/Мое мнение/Боль в плечах при отжиманиях.md",
-    "Project/Другое/Мое мнение/Анализы.md",
-    "Project/4Состояние организма/Грибы и плесень/Кандида.md",
-    "Project/1Питание/Соединения/Элементы/Никель.md",
-    "Res/Files/Pasted image 20250326063301.png",
-    "Res/Files/Pasted image 20250326063210.png",
-    "Project/1Питание/Соединения/Элементы/Сера.md",
-    "Res/Files/Pasted image 20250326061739.png",
-    "Res/Files/Pasted image 20250320192257.png",
-    "Res/Files/Pasted image 20250320183125.png",
-    "Res/Files/Pasted image 20250320180730.png",
-    "Res/Files/Pasted image 20250320180635.png",
-    "Res/Files/Pasted image 20250320180403.png",
-    "Res/Files/Pasted image 20250320180243.png.~tmp",
-    "Res/Files/Pasted image 20250320180243.png",
-    "Res/Files/Pasted image 20250320180146.png.~tmp",
-    "Res/Files/Pasted image 20250320180146.png",
-    "Res/Files/Pasted image 20250320174921.png.~tmp",
-    "Project/1Питание/Соединения/Каротиноиды",
-    "Project/1Питание/Соединения/Витамины/Витамины долголетия",
-    "Res/Files/Pasted image 20250317200811.png.~tmp",
-    "Project/2Спорт/Упражнения/Упражнения для зрения",
-    "Project/1Питание/Продукты/Водоросли",
-    "Project/2Спорт/Упражнения/Упражнения для зрения",
+    "Project/1Питание/Продукты/Растительное молоко.md",
+    "Project/1Питание/Соединения/Фитонутриенты/Нитраты и нитриты/Нитраты.md",
+    "Project/1Питание/Продукты/Фрукты/Лимон.md",
+    "Project/4Состояние организма/Грибки/Кандидоз.md",
+    "Project/5Части организма/Органы/Глаза.md",
+    "Project/5Части организма/Органы/Гематоэнцефалический барьер.md",
+    "Project/5Части организма/Ферменты/Липопротеинлипаза.md",
+    "Project/5Части организма/Ферменты/Липаза.md",
+    "Project/5Части организма/Ферменты/Амилаза.md",
+    "Project/1Питание/Соединения/Углеводы/Крахмал.md",
+    "Project/5Части организма/Холестерин/Холестерин.md",
+    "Project/1Питание/Приготовление/Сочетания",
+    "Project/5Части организма/Органы",
+    "Project/5Части организма/Ферменты",
+    "Res/Files/Pasted image 20250508093631.png",
+    "Res/Files/Pasted image 20250508093119.png",
+    "Res/Files/Pasted image 20250508092323.png",
+    "Res/Files/Pasted image 20250508091631.png",
+    "Res/Files/Pasted image 20250504213156.png",
+    "Res/Files/Pasted image 20250504213058.png",
+    "Res/Files/Pasted image 20250504212050.png",
+    "Res/Files/Pasted image 20250501191316.png",
+    "Res/Files/Pasted image 20250501191220.png",
+    "Project/Другое/Мое мнение/Заметки/Заметки по спорту/Упражнения/Пилатес",
+    "Res/Files/Pasted image 20250426174703.png",
+    "Project/Другое/Мое мнение/Заметки/Заметки по спорту/Положение тела",
+    "Project/Другое/Мое мнение/Заметки/Заметки по спорту/Динамическая растяжка/Комплекс 1",
+    "Project/Другое/Мое мнение/Заметки/Заметки по спорту/Динамическая растяжка",
+    "Project/Другое/Мое мнение/Заметки/Заметки по спорту/Упражнения",
+    "Project/Другое/Мое мнение/Заметки/Заметки по спорту/Оборудование",
     "Project/1Питание/Untitled.canvas",
     "Untitled.canvas"
   ]

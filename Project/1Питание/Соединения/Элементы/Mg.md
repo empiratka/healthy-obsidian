@@ -20,5 +20,11 @@ https://youtu.be/lgbo8nQpoiw?si=5uVgy9vVEhjnetzN
 [^2]
 ![[Pasted image 20240907222759.png]]
 
+Недостаток витамина может увеличить риск возникновения [[Варикоз]][^3]
+
+[^4] ![[Pasted image 20250904154537.png]]
+
 [^1]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6631968/
 [^2]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8620491/
+[^3]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8751841/
+[^4]: https://www.mdpi.com/2072-6643/12/11/3412

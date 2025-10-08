@@ -1,11 +1,11 @@
 {
-  "collapse-filter": false,
-  "search": "path:Project ",
+  "collapse-filter": true,
+  "search": "path:Project -path:Другое -path:Project/9TODO   ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"Project/4Состояние организма\"  ",
@@ -39,6 +39,6 @@
   "repelStrength": 15.1383703703704,
   "linkStrength": 0.624177777777778,
   "linkDistance": 30,
-  "scale": 0.05433669504290205,
-  "close": true
+  "scale": 0.06610038586480464,
+  "close": false
 }

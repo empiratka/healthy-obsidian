@@ -103,6 +103,21 @@
 
 - пропить еще 4 недели для закрепления эффекта.
 
+[^15]![[Pasted image 20250901183231.png]]![[Pasted image 20250901184559.png]]
+[^16] ![[Pasted image 20250901183455.png]]
+[^17] ![[Pasted image 20250901185533.png]]
+[^18] ![[Pasted image 20250901185623.png]]![[Pasted image 20250901185739.png]]![[Pasted image 20250901185806.png]]
+
+[^19] ![[Pasted image 20250901185901.png]]
+
+https://www.youtube.com/watch?v=upuT6xjBSy8&t=12s
+
+Гречка 1,5 мг/100 г
+![[Pasted image 20250901191653.png]]
+![[Pasted image 20250901191709.png]]
+![[Pasted image 20250901191739.png]]
+
+
 [^1]: https://www.healthdata.org/research-analysis/library/prevalence-years-lived-disability-and-trends-anaemia-burden-severity-and
 [^2]: https://pmc.ncbi.nlm.nih.gov/articles/PMC1987938/?page=1
 [^3]: https://pubmed.ncbi.nlm.nih.gov/2252546/
@@ -117,3 +132,8 @@
 [^12]: https://onlinelibrary.wiley.com/doi/10.1111/j.1365-3156.2011.02878.x
 [^13]: https://ttu-ir.tdl.org/server/api/core/bitstreams/38b2adb9-ca43-4988-af4d-e9e0a3f41676/content
 [^14]: https://journals.sagepub.com/doi/full/10.1177/0379572119885482?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org
+[^15]: https://pmc.ncbi.nlm.nih.gov/articles/PMC5155616/
+[^16]: https://academic.oup.com/nutritionreviews/advance-article/doi/10.1093/nutrit/nuaf016/8068911
+[^17]: https://academic.oup.com/nutritionreviews/advance-article/doi/10.1093/nutrit/nuaf016/8068911
+[^18]: https://www.mdpi.com/2072-6643/12/11/3412
+[^19]: https://link.springer.com/article/10.1007/s00394-024-03547-z#Fig2

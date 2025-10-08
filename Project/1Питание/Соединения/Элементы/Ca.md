@@ -1,8 +1,3 @@
-Сочетание:: [[Добавки D|Добавки D]], [[Workspace/Projects/Здоровье/Питание/Соединения/Фитонутриенты/Органические кислоты 1/Щавелевая кислота|Щавелевая кислота]]
-Ингибиторы:: [[Томат|Томат]], [[Фитиновая кислота|Фитиновая кислота]], [[Fe|Fe]]
-Связанное:: [[Овес|Овес]], [[Молочные продукты|Молочные продукты]], [[Кунжут|Кунжут]], [[Укроп|Укроп]], [[Петрушка|Петрушка]], [[Руккола|Руккола]], [[Капуста|Капуста]]
-#таблицаПитание
-
 Согласно рекомендациям европейских учёных, взрослым человекам следует потреблять в пищу около 700 мг. кальция, а взращиваемым взрослыми подросткам (с 9 до 18 лет), у которых активно формируется скелет,– около 1000 мг. кальция в день[^12]
 
 
@@ -31,6 +26,10 @@
 
 вы можете потреблять кальция, в принципе, предостаточно. Но, при неправильном «закисляющем» рационе, расход кальция  будет существенно превышать приход[^8][[PRAL]]
 
+[^13] ![[Pasted image 20250904154815.png]]
+
+Недостаток кальция может увеличить риск возникновения [[Варикоз]][^14]
+
 [^1]: A. Keshtkar. A Suggested Prototype for Assessing Bone Health
 [^2]: Juliane Menzel. Vegan Diet and Bone Health—Results from the Cross-Sectional RBVD Study
 [^3]: Diane Feskanich: Milk, dietary calcium, and bone fractures in women: a 12-year prospective study, 1997
@@ -43,3 +42,5 @@
 [^10]: Keller, J.L.:The consumer cost of calcium from food and supplements.2002
 [^11]: Коновалова Е.Ю.: http://www.pharmacognosy.com.ua/index.php/makro-i-mikro-chudesa/kaltsiy-krepkiye-kosti-zdorovye-zuby
 [^12]: K. D. Cashman: Calcium intake, calcium bioavailability and bone health
+[^13]: https://www.mdpi.com/2072-6643/12/11/3412
+[^14]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8751841/

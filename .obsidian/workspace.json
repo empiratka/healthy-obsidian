@@ -8,34 +8,115 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d8a0fa857a7abe9c",
+            "id": "23069c925363e49a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/4Состояние организма/Болезни ЖКТ/Запор.md",
+                "file": "Project/1Питание/Продукты/Овощи/Зонтичные/Петрушка.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Запор"
+              "title": "Петрушка"
             }
           },
           {
-            "id": "b690f16f55d720db",
+            "id": "fd843851af3b4a45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/1Питание/Соединения/Клетчатка/Клетчатка.md",
+                "file": "Project/1Питание/Соединения/Фуранокумарин.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Клетчатка"
+              "title": "Фуранокумарин"
+            }
+          },
+          {
+            "id": "dc2138e51ccf32e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/1Питание/Соединения/Оксалаты.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Оксалаты"
+            }
+          },
+          {
+            "id": "8da623dae4fb0c2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/1Питание/Продукты/Ягоды и фрукты/Фрукты/Лимон.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Лимон"
+            }
+          },
+          {
+            "id": "c394d5a3911e50e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/1Питание/Соединения/Карбоновые кислоты/Лимонная кислота.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Лимонная кислота"
+            }
+          },
+          {
+            "id": "88300260fa61654e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/Другое/Специфическое/EMDR.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "EMDR"
+            }
+          },
+          {
+            "id": "d50eb3ab36506bde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/8Красота/Уход/Витамин С.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Витамин С"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -67,7 +148,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "насыщенн",
+                "query": "Оксала",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workspace/Projects/Здоровье/Питание/Соединения/Лектины.md",
+                "file": "Project/8Красота/Уход/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +209,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Лектины"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -205,55 +286,55 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "d8a0fa857a7abe9c",
+  "active": "d50eb3ab36506bde",
   "lastOpenFiles": [
-    "Res/Files/Pasted image 20251008113332.png",
-    "Res/Files/Pasted image 20251008112827.png",
-    "Res/Files/Pasted image 20251008112320.png",
-    "Res/Files/Pasted image 20251008111847.png",
-    "Res/Files/Pasted image 20251008111815.png",
-    "Project/1Питание/Продукты/Ягоды и фрукты/Сухофрукты.md",
-    "Project/4Состояние организма/Болезни ЖКТ/Запор.md",
-    "Project/1Питание/Продукты/Ягоды и фрукты",
-    "Res/Files/Pasted image 20251008105224.png",
-    "Res/Files/Pasted image 20251008105156.png",
-    "Project/1Питание/Соединения/Клетчатка/Клетчатка.md",
-    "Res/Files/Pasted image 20251007200616.png",
-    "Project/7Лекарства/Слабительное.md",
-    "Project/1Питание/Соединения/Карбоновые кислоты/ЖК/Насыщенные ЖК.md",
-    "Project/1Питание/Соединения/Витамины/E.md",
-    "Project/4Состояние организма/Болезни сердечно-сосудистой системы/Варикоз.md",
+    "Project/8Красота/Уход/Очищение.md",
+    "Project/8Красота/Уход/Витамин С.md",
+    "Project/8Красота/Уход/Уход за кожей.md",
+    "Project/8Красота/Уход/Глицин.md",
+    "Project/8Красота/Уход/Пептиды.md",
+    "Res/Files/Pasted image 20251016202709.png",
+    "Project/Другое/Специфическое/EMDR.md",
+    "Project/8Красота/Уход/Ретинол.md",
+    "Project/8Красота/Уход за волосами.md",
+    "Project/8Красота/ОЗУ.md",
+    "Project/8Красота/Косметика.md",
+    "Project/8Красота/Уход",
+    "Project/1Питание/Соединения/Белок/Белок.md",
+    "Project/1Питание/Соединения/Белок/Белок растительный.md",
+    "Project/1Питание/Соединения/Белок/Белок животный.md",
+    "Project/1Питание/Соединения/Оксалаты.md",
+    "Project/4Состояние организма/Болезни почек/Камни в почках.md",
+    "Project/1Питание/Соединения/Карбоновые кислоты/Лимонная кислота.md",
+    "Project/1Питание/Продукты/Ягоды и фрукты/Фрукты/Лимон.md",
+    "Project/1Питание/Продукты/Овощи/Салат/Цикорий салат.md",
+    "Project/1Питание/Продукты/Овощи/Зонтичные/Петрушка.md",
+    "Project/1Питание/Соединения/Фуранокумарин.md",
+    "Project/1Питание/Соединения/Карбоновые кислоты/Щавелевая кислота.md",
+    "Res/Files/Pasted image 20251009144007.png",
+    "Res/Files/Информация_о_количестве_оксалатов_в_обычной_порции_различных_продуктов (3).pdf",
+    "Res/Files/Pasted image 20251009105011.png",
+    "Res/Files/Pasted image 20251009104949.png",
+    "Res/Files/Pasted image 20251009104852.png",
+    "Res/Files/Pasted image 20251009104842.png",
+    "Res/Files/Pasted image 20251009104818.png",
+    "Res/Files/Pasted image 20251009104800.png",
+    "Res/Files/Pasted image 20251009104740.png",
+    "Res/Files/Pasted image 20251009104640.png",
+    "Project/1Питание/Соединения/Метоксален.md",
+    "Project/1Питание/Продукты/Овощи/Зонтичные/Сельдерей.md",
+    "Res/Files/Информация_о_количестве_оксалатов_в_обычной_порции_различных_продуктов (3) 1.pdf",
+    "Project/4Состояние организма/Инфекции мочевыводящих путей.md",
     "00Plan.md",
-    "Project/Другое/Мое мнение/Заметки по спорту/Боль в плечах при отжиманиях.md",
-    "PRAL.md",
-    "Project/1Питание/Прием пищи/3 Ужин.md",
-    "Project/1Питание/Прием пищи/2 Обед.md",
-    "Project/1Питание/Прием пищи/1 Завтрак.md",
-    "Project/1Питание/Продукты/Овощи/Овощи.md",
-    "Res/Files/Pasted image 20250906222248.png",
-    "Res/Files/Pasted image 20250906222234.png",
-    "Res/Files/Pasted image 20250906222211.png",
-    "Project/1Питание/Соединения/Фитонутриенты/Фенольные соединения/Антиоксиданты.md",
-    "Project/1Питание/Продолжительность жизни.md",
-    "Project/5Части организма/Органы/Глаза.md",
-    "Project/1Питание/Соединения/Элементы/Fe.md",
-    "Project/1Питание/Соединения/Витамины/B12.md",
-    "Project/1Питание/Продукты/Животные продукты/Рыба.md",
-    "Project/1Питание/Соединения/Элементы/I.md",
-    "Project/1Питание/Продукты гликирования.md",
-    "Project/1Питание/Продукты/Овощи/Пасленовые/Томат.md",
-    "Project/1Питание/Продукты/Овощи/Пасленовые/Пасленовые.md",
-    "Project/1Питание/Соединения/Элементы/Mg.md",
+    "Project/1Питание/Соединения/Карбоновые кислоты/Гриб чага.md",
+    "Project/1Питание/Продукты/Ягоды и фрукты",
     "Databases/Продукты",
     "Databases",
     "Project/1Питание/Вредно",
     "Project/9TODO",
     "Project/1Питание/Продукты/Овощи/Грибы",
     "Project/1Питание/Продукты/Специи/Имбирь",
-    "Project/4Состояние организма/Половые/Женское/Untitled",
-    "Project/8Красота/Эфирные масла",
     "Project/7Красота/Untitled.canvas",
-    "Project/8Красота",
     "Project/1Питание/Untitled.canvas",
     "Untitled.canvas"
   ]

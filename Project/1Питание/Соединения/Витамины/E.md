@@ -20,7 +20,7 @@
 
 Вроде даже в рафинированных маслах есть витаминная форма[^8]![[Pasted image 20250904153935.png]]
 
-
+[^9]![[Pasted image 20251104144140.png]]
 # Источники
 - свежедавленные (из сырых продуктов) масла - [[Оливковое масло]]
 - [[Орехи и семечки]]
@@ -35,3 +35,4 @@
 [^6]: https://pmc.ncbi.nlm.nih.gov/articles/PMC8751841/
 [^7]: https://www.ars.usda.gov/ARSUserFiles/80400525/Articles/AICR06_NutSeed.pdf
 [^8]: https://journal.pan.olsztyn.pl/pdf-98802-30805?filename=TOCOPHEROL%20CONTENT%20IN.pdf
+[^9]: https://www.explorationpub.com/Journals/eff/Article/101028

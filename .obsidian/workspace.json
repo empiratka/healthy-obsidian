@@ -4,70 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "49ddc0b27b6fd636",
+        "id": "557f8dd77becf5ac",
         "type": "tabs",
         "children": [
           {
-            "id": "8d29557b7561f154",
+            "id": "c9f5ccfb014fcf91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/2Спорт/Упражнения/Выносливость/Ходьба.md",
+                "file": "Project/1Питание/Продукты/Орехи и семечки/Тыквенные семечки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ходьба"
+              "title": "Тыквенные семечки"
             }
           },
           {
-            "id": "976c7af91bb9cfcf",
+            "id": "77a30b821e3b2357",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/1Питание/Соединения/Карбоновые кислоты/ЖК/Омега-3 морская.md",
+                "file": "Project/1Питание/Соединения/Лектины.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Омега-3 морская"
-            }
-          },
-          {
-            "id": "a5becb133b653713",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project/1Питание/Прием пищи/До еды.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "До еды"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "af5c46f55da4b30d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "369e29b89d45f3e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project/1Питание/Вредно/Газированная вода.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Газированная вода"
+              "title": "Лектины"
             }
           }
         ]
@@ -102,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "газир",
+                "query": "S1756464610000241",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -137,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "right": {
     "id": "f3519d4691b568de",
@@ -252,44 +216,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "369e29b89d45f3e5",
+  "active": "c9f5ccfb014fcf91",
   "lastOpenFiles": [
-    "Project/1Питание/Прием пищи/До еды.md",
-    "Project/1Питание/Вредно/Газированная вода.md",
-    "Res/Files/Pasted image 20251103203353.png",
-    "Res/Files/Pasted image 20251103203226.png",
-    "Project/5Части организма/Микрофлора/Аэробные бактерии.md",
-    "Project/5Части организма/Микрофлора/Анаэробные бактерии.md",
-    "Res/Files/Pasted image 20251103203131.png",
-    "Res/Files/Pasted image 20251103203111.png",
-    "Res/Files/Pasted image 20251103203042.png",
-    "Res/Files/Pasted image 20251103203016.png",
-    "Res/Files/Pasted image 20251103202509.png",
-    "Res/Files/Pasted image 20251103195247.png",
-    "Res/Files/Pasted image 20251103195204.png",
-    "Res/Files/Pasted image 20251103195000.png",
-    "Project/1Питание/Продукты/Животные продукты/Рыба.md",
-    "Project/1Питание/Соединения/Карбоновые кислоты/ЖК/Омега-3 морская.md",
-    "Project/2Спорт/Упражнения/Выносливость/Ходьба.md",
+    "Res/Files/Pasted image 20251104180640.png",
+    "Res/Files/Pasted image 20251104180428.png",
+    "Res/Files/Pasted image 20251104180418.png",
+    "Res/Files/Pasted image 20251104180404.png",
+    "Res/Files/Pasted image 20251104175442.png",
+    "Res/Files/Pasted image 20251104175316.png",
+    "Res/Files/Pasted image 20251104174908.png",
+    "Project/1Питание/Соединения/Лектины.md",
+    "Project/1Питание/Продукты/Орехи и семечки/Тыквенные семечки.md",
+    "Res/Files/Pasted image 20251104173919.png",
+    "Res/Files/Pasted image 20251104173844.png",
+    "Res/Files/Pasted image 20251104173833.png",
+    "Res/Files/Pasted image 20251104173804.png",
+    "Project/Другое/Мое мнение/Кухонное оборудование/Доски.md",
+    "Project/1Питание/Соединения/Элементы/Fe.md",
+    "Project/1Питание/Продукты/Орехи и семечки/Кунжут.md",
+    "Project/1Питание/Соединения/Фитонутриенты/Фенольные соединения/Антиоксиданты.md",
+    "Project/Другое/Мое мнение/Бытовая техника и посуда.md",
+    "Project/1Питание/Продукты/Орехи и семечки/Семечки подсолнечника.md",
+    "Project/1Питание/Микротоксины и плесень.md",
+    "Project/1Питание/Кратко.md",
+    "Project/1Питание/Кратко/Грибы кратко.md",
+    "Project/1Питание/Продукты/Овощи/Грибы.md",
+    "Project/1Питание/Кратко/Имбирь кратко.md",
+    "Project/1Питание/Продукты/Специи/Имбирь.md",
+    "Project/1Питание/Кратко",
+    "Project/1Питание/Продукты/Орехи и семечки/Орехи и семечки.md",
+    "Project/1Питание/Соединения/Витамины/B6.md",
+    "Project/1Питание/Соединения/Витамины/B1.md",
+    "Project/1Питание/Соединения/Витамины/B9.md",
+    "Project/1Питание/Соединения/Витамины/E.md",
+    "Project/1Питание/Продукты/Специи/Лавровый лист.md",
+    "Project/1Питание/Продукты/Овощи/Овощи.md",
+    "00Plan.md",
     "Project/5Части организма/Ферменты/Липопротеинлипаза.md",
-    "Project/2Спорт/Упражнения/Выносливость/Бег.md",
     "Project/2Спорт/Спорт.md",
-    "Project/1Питание/Продукты/Масла растительные/Пальмовое масло.md",
-    "Project/1Питание/Соединения/Загустители.md",
-    "Project/5Части организма/Холестерин/Оксидированный холестерин.md",
-    "Project/1Питание/Продукты гликирования.md",
-    "Project/1Питание/Приготовление/Ферментация/Шоколад.md",
-    "Project/1Питание/Продукты/Овощи/Пасленовые/Томат.md",
-    "Project/8Красота/Уход/Гиалурнонка.md",
-    "Project/8Красота/Уход/Глицерин.md",
-    "Project/8Красота/Уход/Глицин.md",
-    "Project/8Красота/Уход/ЖПТ.md",
-    "Project/8Красота/Уход/Кислоты.md",
-    "Project/8Красота/Уход/Мочевина.md",
-    "Project/8Красота/Уход/Ниациамид.md",
-    "Project/8Красота/Уход/Очищение.md",
-    "Project/8Красота/Уход/Пептиды.md",
-    "Project/8Красота/Уход/Питание кожи.md",
+    "Project/Другое/Мое мнение/Краткие советы.md",
     "Res/Files/MaxPogorely_Desserts_Десерты_v1.pdf",
     "Project/8Красота/Уход",
     "Res/Files/Информация_о_количестве_оксалатов_в_обычной_порции_различных_продуктов (3).pdf",
@@ -299,7 +264,6 @@
     "Databases",
     "Project/1Питание/Вредно",
     "Project/9TODO",
-    "Project/1Питание/Продукты/Овощи/Грибы",
     "Project/7Красота/Untitled.canvas",
     "Project/1Питание/Untitled.canvas",
     "Untitled.canvas"

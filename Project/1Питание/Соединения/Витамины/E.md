@@ -15,6 +15,8 @@
 
 Недостаток витамина может увеличить риск возникновения [[Варикоз]][^6]
 
+[^2] ![[Pasted image 20251105201221.png]]
+
 Рекомендуемые нормы потребления витамина[^2] ![[Pasted image 20250904153339.png]]![[Pasted image 20250904153515.png]]
 Нужна именно витаминная форма витамина (альфа-токоферол)[^7] ![[Pasted image 20250904153723.png]]
 
@@ -33,6 +35,6 @@
 [^4]: June M. Chan: Selenium- or vitamin E-related gene variants, interaction with supplementation, and risk of high-grade prostate cancer in SELECT
 [^5]: Qing Jiang: Natural Forms of Vitamin E as Effective Agents for Cancer Prevention and Therapy
 [^6]: https://pmc.ncbi.nlm.nih.gov/articles/PMC8751841/
-[^7]: https://www.ars.usda.gov/ARSUserFiles/80400525/Articles/AICR06_NutSeed.pdf
+[^7]: https://www.ars.usda.gov/ARSUserFiles/80400525/Articles/AICR06_NutSeed.pdf https://www.ars.usda.gov/arsuserfiles/80400525/articles/aicr06_nutseed.pdf
 [^8]: https://journal.pan.olsztyn.pl/pdf-98802-30805?filename=TOCOPHEROL%20CONTENT%20IN.pdf
 [^9]: https://www.explorationpub.com/Journals/eff/Article/101028

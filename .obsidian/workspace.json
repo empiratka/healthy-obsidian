@@ -4,20 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "f60ccea5987688cf",
+        "id": "a78367aacda2eb69",
         "type": "tabs",
         "children": [
           {
-            "id": "37b8b45aeec88563",
+            "id": "7fe5d9dd5f7e3896",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00Plan.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "00Plan"
+            }
+          },
+          {
+            "id": "ae7a0d6142dc95af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/1Питание/Продукты/Овощи/Пасленовые/Томат.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Томат"
+            }
+          },
+          {
+            "id": "b4c648fac60c71f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/1Питание/Продукты/Овощи/Овощи.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Овощи"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,8 +231,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "37b8b45aeec88563",
+  "active": "ae7a0d6142dc95af",
   "lastOpenFiles": [
+    "Res/Files/Pasted image 20251113201557.png",
+    "Res/Files/Pasted image 20251113201431.png",
+    "Res/Files/Pasted image 20251113201410.png",
+    "Res/Files/Pasted image 20251113201329.png",
+    "Res/Files/Pasted image 20251113201304.png",
+    "Res/Files/Pasted image 20251113201122.png",
+    "Res/Files/Pasted image 20251113201049.png",
+    "Res/Files/Pasted image 20251113200958.png",
+    "Res/Files/Pasted image 20251113200924.png",
+    "Res/Files/Pasted image 20251113200727.png",
+    "Res/Files/Pasted image 20251113200658.png",
+    "Project/1Питание/Продукты/Овощи/Пасленовые/Пасленовые.md",
+    "Project/1Питание/Продукты/Овощи/Пасленовые/Томат.md",
+    "Project/1Питание/Продукты/Овощи/Овощи.md",
+    "00Plan.md",
     "Project/1Питание/Соединения/Витамины/Витамин K2.md",
     "Project/4Состояние организма/Болезни сердечно-сосудистой системы/Варикоз.md",
     "Project/1Питание/Соединения/Карбоновые кислоты/ЖК/Омега-3 морская.md",
@@ -207,10 +255,6 @@
     "Project/1Питание/Соединения/Витамины/Витамины.md",
     "Project/1Питание/Соединения/Витамины/Витамин E.md",
     "Project/1Питание/Соединения/Витамины/Витамин D.md",
-    "Res/Files/Pasted image 20251109202904.png",
-    "Res/Files/Pasted image 20251109202856.png",
-    "Res/Files/Pasted image 20251109202807.png",
-    "Res/Files/Pasted image 20251109202747.png",
     "Project/1Питание/Соединения/Элементы/Ca Кальций.md",
     "Project/0Справка/Исследования потерянные.md",
     "Project/1Питание/Соединения/Фенол.md",
@@ -225,17 +269,6 @@
     "Project/1Питание/Соединения/Витамины/Витамин B7 Биотин.md",
     "Project/1Питание/Соединения/Витамины/Витамин B6.md",
     "Project/1Питание/Соединения/Витамины/Витамин B5.md",
-    "Project/1Питание/Соединения/Витамины/Витамин B4 Холин ТМАО.md",
-    "Project/1Питание/Соединения/Витамины/Витамин B2 Рибофлавин.md",
-    "Project/1Питание/Соединения/Витамины/Витамин B1.md",
-    "Project/1Питание/Соединения/Витамины/Витамин A.md",
-    "Project/1Питание/Соединения/Элементы/Тяжелые металлы.md",
-    "Res/Files/Pasted image 20251109151435.png",
-    "Res/Files/Pasted image 20251109144614.png",
-    "Res/Files/Pasted image 20251109143409.png",
-    "Res/Files/Pasted image 20251109143129.png",
-    "Res/Files/Pasted image 20251109124607.png",
-    "Res/Files/Pasted image 20251109124545.png",
     "Project/1Питание/Кратко",
     "Res/Files/MaxPogorely_Desserts_Десерты_v1.pdf",
     "Project/8Красота/Уход",

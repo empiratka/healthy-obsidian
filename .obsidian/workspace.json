@@ -4,49 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "a78367aacda2eb69",
+        "id": "dda539f2a9bac672",
         "type": "tabs",
         "children": [
           {
-            "id": "7fe5d9dd5f7e3896",
+            "id": "583a82b2dfb543bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00Plan.md",
+                "file": "Project/1Питание/Соединения/Белок/Глютен.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00Plan"
+              "title": "Глютен"
             }
           },
           {
-            "id": "ae7a0d6142dc95af",
+            "id": "cec610204d323e23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/1Питание/Продукты/Овощи/Пасленовые/Томат.md",
+                "file": "Project/1Питание/Диеты/Безглютеновая диета.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Томат"
+              "title": "Безглютеновая диета"
             }
           },
           {
-            "id": "b4c648fac60c71f4",
+            "id": "55ddb71dead2b2c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/1Питание/Продукты/Овощи/Овощи.md",
+                "file": "Project/4Состояние организма/Аутоиммунные заболевания/Аутоиммунные заболевания.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Овощи"
+              "title": "Аутоиммунные заболевания"
             }
           }
         ],
@@ -231,44 +231,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae7a0d6142dc95af",
+  "active": "cec610204d323e23",
   "lastOpenFiles": [
-    "Res/Files/Pasted image 20251113201557.png",
-    "Res/Files/Pasted image 20251113201431.png",
-    "Res/Files/Pasted image 20251113201410.png",
-    "Res/Files/Pasted image 20251113201329.png",
-    "Res/Files/Pasted image 20251113201304.png",
-    "Res/Files/Pasted image 20251113201122.png",
-    "Res/Files/Pasted image 20251113201049.png",
-    "Res/Files/Pasted image 20251113200958.png",
-    "Res/Files/Pasted image 20251113200924.png",
-    "Res/Files/Pasted image 20251113200727.png",
-    "Res/Files/Pasted image 20251113200658.png",
-    "Project/1Питание/Продукты/Овощи/Пасленовые/Пасленовые.md",
-    "Project/1Питание/Продукты/Овощи/Пасленовые/Томат.md",
-    "Project/1Питание/Продукты/Овощи/Овощи.md",
+    "Res/Files/Pasted image 20251204200932.png",
+    "Project/1Питание/Соединения/Белок/Глютен.md",
+    "TODO.md",
+    "Project/1Питание/Диеты/Безглютеновая диета.md",
+    "Res/Files/Pasted image 20251204200746.png",
+    "Project/4Состояние организма/Аутоиммунные заболевания/Аутоиммунные заболевания.md",
+    "Res/Files/Pasted image 20251204200550.png",
+    "Res/Files/Pasted image 20251204200319.png",
+    "Res/Files/Pasted image 20251204195913.png",
+    "Res/Files/Pasted image 20251204195849.png",
+    "Res/Files/Pasted image 20251204195813.png",
+    "Res/Files/Pasted image 20251204195735.png",
+    "Res/Files/Pasted image 20251204195710.png",
+    "Res/Files/Pasted image 20251204195630.png",
+    "Res/Files/Pasted image 20251204195553.png",
+    "Project/1Питание/Соединения/Глутамин.md",
+    "Project/1Питание/Соединения/L-теанин.md",
+    "Project/7Лекарства/БАДы/Добавки Zn.md",
+    "Project/7Лекарства/Аптечные пробиотики.md",
     "00Plan.md",
+    "Project/4Состояние организма/Инфекции/Простуда.md",
+    "README.md",
+    "Project/1Питание/Продукты/Ягоды и фрукты/Ягоды/Ягоды.md",
+    "Project/1Питание/Продукты/Бузина.md",
+    "Project/7Лекарства/БАДы/Аскорбиновая кислота.md",
+    "Project/1Питание/Соединения/NAC.md",
+    "Project/7Лекарства/БАДы/Экстракт эхинацеи.md",
+    "Project/7Лекарства/БАДы/Экстракт бузины.md",
+    "Project/4Состояние организма/Инфекции/Грипп.md",
+    "Project/1Питание/Соединения/Карбоновые кислоты/Щавелевая кислота.md",
+    "Project/1Питание/Продукты/Овощи/Зелень/Шпинат.md",
+    "Project/1Питание/Соединения/Оксалаты.md",
+    "Project/1Питание/Продукты/Овощи/Овощи.md",
+    "Project/1Питание/Продукты/Овощи/Пасленовые/Томат.md",
+    "Project/1Питание/Продукты/Овощи/Пасленовые/Пасленовые.md",
     "Project/1Питание/Соединения/Витамины/Витамин K2.md",
-    "Project/4Состояние организма/Болезни сердечно-сосудистой системы/Варикоз.md",
-    "Project/1Питание/Соединения/Карбоновые кислоты/ЖК/Омега-3 морская.md",
-    "Project/1Питание/Продукты/Животные продукты/Молочные продукты/Молочные продукты.md",
-    "Project/1Питание/Соединения/Витамины/Витамины.md",
-    "Project/1Питание/Соединения/Витамины/Витамин E.md",
-    "Project/1Питание/Соединения/Витамины/Витамин D.md",
-    "Project/1Питание/Соединения/Элементы/Ca Кальций.md",
-    "Project/0Справка/Исследования потерянные.md",
-    "Project/1Питание/Соединения/Фенол.md",
-    "Project/1Питание/Соединения/Витамины/Витамин U Метилметионин.md",
-    "Project/1Питание/Соединения/Витамины/Витамин P Рутин.md",
-    "Project/1Питание/Соединения/Витамины/Витамины группы B.md",
-    "Project/1Питание/Соединения/Витамины/Витамин K1.md",
-    "Project/1Питание/Соединения/Витамины/Витамин K.md",
-    "Project/1Питание/Соединения/Витамины/Витамин C.md",
-    "Project/1Питание/Соединения/Витамины/Витамин B12.md",
-    "Project/1Питание/Соединения/Витамины/Витамин B9 Фолаты.md",
-    "Project/1Питание/Соединения/Витамины/Витамин B7 Биотин.md",
-    "Project/1Питание/Соединения/Витамины/Витамин B6.md",
-    "Project/1Питание/Соединения/Витамины/Витамин B5.md",
     "Project/1Питание/Кратко",
     "Res/Files/MaxPogorely_Desserts_Десерты_v1.pdf",
     "Project/8Красота/Уход",

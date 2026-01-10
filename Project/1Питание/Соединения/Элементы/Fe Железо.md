@@ -107,7 +107,7 @@
 
 - пропить еще 4 недели для закрепления эффекта.
 
-[^15]![[Pasted image 20250901183231.png]]![[Pasted image 20250901184559.png]]
+[^15]![[Pasted image 20250901183231.png]]![[Pasted image 20250901184559.png]]![[Pasted image 20260110175739.png]]![[Pasted image 20260110180415.png]]![[Pasted image 20260110180626.png]]
 [^16] ![[Pasted image 20250901183455.png]]
 [^17] ![[Pasted image 20250901185533.png]]
 [^18] ![[Pasted image 20250901185623.png]]![[Pasted image 20250901185739.png]]![[Pasted image 20250901185806.png]]
@@ -115,6 +115,8 @@
 [^19] ![[Pasted image 20250901185901.png]]
 
 https://www.youtube.com/watch?v=upuT6xjBSy8&t=12s
+
+[^21]![[Pasted image 20260110180448.png]]
 
 Гречка 1,5 мг/100 г
 ![[Pasted image 20250901191653.png]]
@@ -142,3 +144,4 @@ https://www.youtube.com/watch?v=upuT6xjBSy8&t=12s
 [^18]: https://www.mdpi.com/2072-6643/12/11/3412
 [^19]: https://link.springer.com/article/10.1007/s00394-024-03547-z#Fig2
 [^20]: https://pubmed.ncbi.nlm.nih.gov/1782927/
+[^21]: https://www.mdpi.com/2072-6643/14/13/2724

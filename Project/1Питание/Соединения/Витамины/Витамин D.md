@@ -5,6 +5,8 @@
 
 https://pmc.ncbi.nlm.nih.gov/articles/PMC3173029/
 
+Д витамин замедляет укорачивание теломеров -> молодость
+https://pubmed.ncbi.nlm.nih.gov/40409468/
 
 ![[Pasted image 20240223221931.png]]
 ![[Pasted image 20240223225033.png]]

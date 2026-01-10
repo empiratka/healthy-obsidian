@@ -4,39 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "dda539f2a9bac672",
+        "id": "47ffae1117a0d87c",
         "type": "tabs",
         "children": [
           {
-            "id": "cec610204d323e23",
+            "id": "7abc80df7d49099a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/1Питание/Диеты/Безглютеновая диета.md",
+                "file": "Project/4Состояние организма/Бактерии/Хеликобактер.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Безглютеновая диета"
+              "title": "Хеликобактер"
             }
           },
           {
-            "id": "55ddb71dead2b2c0",
+            "id": "fbad61c9a9ac86c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00Plan.md",
+                "file": "Project/Relation/Огурец topical - Кожа.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00Plan"
+              "title": "Огурец topical - Кожа"
+            }
+          },
+          {
+            "id": "c4069436dda45194",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/Relation/Огурец topical - Кожа.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Огурец topical - Кожа"
+            }
+          },
+          {
+            "id": "0ce0d941628f4471",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/1Питание/Соединения/Элементы/Fe Железо.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fe Железо"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -68,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "2673551",
+                "query": "1782927",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -206,54 +234,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "55ddb71dead2b2c0",
+  "active": "3e580124986e404b",
   "lastOpenFiles": [
-    "Project/8Красота/Уход/Церамиды.md",
-    "Project/8Красота/Уход/Курс Алины/Средства/Увлажнение/Увлажняющий гель.md",
-    "Project/8Красота/Уход/Курс Алины/Средства/Увлажнение/Увлажняющие масла.md",
-    "Project/8Красота/Уход/Курс Алины/Средства/Увлажнение/Увлажняющая эмульсия.md",
-    "Project/8Красота/Уход/Курс Алины/Средства/Очищение/Пена.md",
-    "Project/8Красота/Уход/Курс Алины/Средства/Очищение/Раствор.md",
-    "Project/8Красота/Уход/Курс Алины/Средства/Очищение/Очищающая эмульсия.md",
-    "Project/8Красота/Уход/Курс Алины/Средства/Очищение/Очищающий гель.md",
-    "Project/8Красота/Уход/Курс Алины/Средства/Дополнительно/Ретиноиды.md",
-    "Project/8Красота/Уход/Курс Алины/Средства/Дополнительно/Пептиды.md",
-    "Project/8Красота/Уход/Курс Алины/Средства/Увлажнение",
-    "Project/8Красота/Уход/Курс Алины/Средства/Очищение",
-    "Project/8Красота/Уход/Курс Алины/Средства/Дополнительно",
-    "Project/8Красота/Уход/Курс Алины/Средства",
-    "Project/8Красота/Уход/Курс Алины/Теория/Церамиды.md",
-    "Project/8Красота/Уход/Курс Алины/Теория/Холестерин в косметике.md",
-    "Project/8Красота/Уход/Курс Алины/Теория/Увлажнение.md",
-    "Project/8Красота/Уход/Курс Алины/Теория/Wrinkled.md",
-    "Project/8Красота/Уход/Курс Алины/Теория/Тест кожа по Бауманн.md",
-    "Project/8Красота/Уход/Курс Алины/Теория/Триглицериды.md",
-    "Project/8Красота/Уход/Курс Алины/Теория/Солнце.md",
-    "Project/8Красота/Уход/Курс Алины/Теория/ПАВ.md",
-    "Project/8Красота/Уход/Курс Алины/Теория/Связывание воды.md",
-    "Project/8Красота/Уход/Курс Алины/Теория/Очищение.md",
-    "Project/8Красота/Уход/Курс Алины/Теория/Окклюзия.md",
-    "Project/8Красота/Уход/Курс Алины/Теория/Область вокруг глаз.md",
-    "Project/8Красота/Уход/Курс Алины/Теория/ОЗУ.md",
-    "Project/8Красота/Уход/Курс Алины/Теория/Мороз.md",
-    "Project/8Красота/Уход/Курс Алины/Теория/Замещение.md",
-    "Project/8Красота/Уход/Курс Алины/Теория/Закисление.md",
-    "Project/8Красота/Уход/Курс Алины/Теория",
-    "Project/8Красота/Уход/Курс Алины",
-    "Res/Files/Pasted image 20251204200932.png",
-    "Res/Files/Pasted image 20251204200746.png",
-    "Res/Files/Pasted image 20251204200550.png",
-    "Res/Files/Pasted image 20251204200319.png",
-    "Res/Files/Pasted image 20251204195913.png",
-    "Res/Files/Pasted image 20251204195849.png",
-    "Res/Files/Pasted image 20251204195813.png",
-    "Res/Files/Pasted image 20251204195735.png",
-    "Res/Files/Pasted image 20251204195710.png",
-    "Res/Files/Pasted image 20251204195630.png",
-    "Project/1Питание/Кратко",
-    "Res/Files/MaxPogorely_Desserts_Десерты_v1.pdf",
-    "Project/8Красота/Уход",
-    "Res/Files/Информация_о_количестве_оксалатов_в_обычной_порции_различных_продуктов (3).pdf",
+    "Project/0Справка/Термины/Термины в названиях.md",
+    "Project/Route",
+    "Project/Route/Topical/Огурец topical.md",
+    "Project/Relation/Огурец topical - Кожа.md",
+    "Project/Relation",
+    "Project/Route/Oral",
+    "Project/1Питание/Продукты/Специи/Черный тмин.md",
+    "Project/1Питание/Соединения/Элементы/Fe Железо.md",
+    "Project/Route/Topical",
+    "Res/Files/Pasted image 20260110180626.png",
+    "Res/Files/Pasted image 20260110180448.png",
+    "Res/Files/Pasted image 20260110180415.png",
+    "Res/Files/Pasted image 20260110175739.png",
+    "Project/Другое/Мое мнение/Рецепты/рецепты.md",
+    "Project/7Лекарства/Капли для глаз.md",
+    "Project/1Питание/Продукты/Овощи/Крестоцветные/Редис.md",
+    "00Plan.md",
+    "Project/7Лекарства/Аптечные пробиотики.md",
+    "Project/1Питание/Продукты/Мед.md",
+    "Project/1Питание/Продукты/Овощи/Тыквенные/Огурец.md",
+    "Project/1Питание/Продукты/Овощи/Тыквенные/Огурец oral.md",
+    "Project/0Справка/Справка по научным статьям.md",
+    "Project/1Питание/Продукты/Напитки/Шиповник.md",
+    "Project/1Питание/Продукты/Животные продукты/Молочные продукты/Кефир.md",
+    "Project/4Состояние организма/Бактерии/Хеликобактер.md",
+    "Project/1Питание/Продукты/Напитки/Кофе.md",
+    "Project/1Питание/Продукты/Животные продукты/Молочные продукты/Молочные продукты.md",
+    "Project/1Питание/Соединения/Витамины/Витамин D.md",
+    "Project/1Питание/Соединения/Сочетаемость витаминов и минеральных солей.md",
+    "Сахар.md",
+    "Project/4Состояние организма/Болезни кожи/Папилломы.md",
+    "Project/1Питание/Прием пищи/3 Ужин.md",
+    "Project/4Состояние организма/Гипотиреоз.md",
+    "Project/8Красота/Продукты/Untitled 1.base",
+    "Project/8Красота/Продукты/Untitled.base",
+    "Project/8Красота/Продукты",
+    "Res/Files/Pasted image 20260109165117.png",
+    "Res/Files/Pasted image 20260109165033.png",
+    "Res/Files/Pasted image 20260109164841.png",
+    "Res/Files/Pasted image 20260109162604.png",
+    "Res/Files/Pasted image 20260109154414.png",
+    "Res/Files/Pasted image 20260109154243.png",
+    "Project/8Красота/Уход/Курс Амины/Средства/Увлажнение",
+    "Project/8Красота/Уход/Курс Амины/Средства/Очищение",
+    "Project/8Красота/Уход/Курс Амины/Средства/Дополнительно",
     "Project/7Красота/Untitled.canvas",
     "Project/1Питание/Untitled.canvas",
     "Untitled.canvas"

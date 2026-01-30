@@ -1,0 +1,1 @@
+**Trace minerals** (also called trace elements) are [minerals](mineral.md) required in very small amounts, typically less than 100 mg per day, yet they are biologically indispensable.

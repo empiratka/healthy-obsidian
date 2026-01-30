@@ -1,44 +1,22 @@
 {
-  "collapse-filter": true,
-  "search": "path:Project -path:Другое -path:Project/9TODO   ",
+  "collapse-filter": false,
+  "search": "path:0ontology/res - path:0ontology/res/context  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path:\"Project/4Состояние организма\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14048348
-      }
-    },
-    {
-      "query": "path:Project/1Питание/Продукты  ",
-      "color": {
-        "a": 1,
-        "rgb": 10803474
-      }
-    },
-    {
-      "query": "path:\"Project/5Части организма\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 6007035
-      }
-    }
-  ],
+  "collapse-color-groups": true,
+  "colorGroups": [],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -1.3,
-  "nodeSizeMultiplier": 1.06650207900208,
-  "lineSizeMultiplier": 0.638643451143451,
-  "collapse-forces": true,
-  "centerStrength": 0.351111111111111,
-  "repelStrength": 15.1383703703704,
-  "linkStrength": 0.624177777777778,
-  "linkDistance": 30,
-  "scale": 0.03284328378195527,
-  "close": true
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.441787941787942,
+  "repelStrength": 10.6652806652807,
+  "linkStrength": 0.849272349272349,
+  "linkDistance": 122,
+  "scale": 0.24522555850832572,
+  "close": false
 }

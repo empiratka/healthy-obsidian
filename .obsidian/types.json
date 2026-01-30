@@ -9,9 +9,12 @@
     "Counter": "number",
     "Job": "multitext",
     "Location": "multitext",
-    "link": "multitext",
+    "link": "text",
     "MBTI": "multitext",
     "todo": "multitext",
-    "list": "multitext"
+    "list": "multitext",
+    "forms": "text",
+    "study type": "text",
+    "notes_status": "text"
   }
 }

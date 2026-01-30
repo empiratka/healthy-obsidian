@@ -1,0 +1,1 @@
+**Macrominerals** are [minerals](mineral.md) required by the human body in relatively large amounts, typically 100 mg per day or more.

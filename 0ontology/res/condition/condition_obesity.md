@@ -1,0 +1,4 @@
+# Obesity
+ожирение
+
+type: [[condition]]

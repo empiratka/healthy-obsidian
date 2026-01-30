@@ -3,10 +3,10 @@
 2. [[Intermittent Fasting Is the Wait Worth the Weight]]
 3. [[Intermittent Fasting and Metabolic Health]]
 4.      -
-5. [[Eating patterns and type 2 diabetes risk in men]]
+5. [[22456660]]
 6. [[The Importance of Breakfast in Atherosclerosis Disease]]
-7. [[A Prospective Study of Breakfast Eating and Incident Coronary Heart Disease in a Cohort of Male U.S. Health Professionals]]
-8. [[High caloric intake at breakfast vs. dinner differentially influences weight loss of overweight and obese women]]
+7. [[23877060]]
+8. [[23512957]]
 9.  [[Meal Frequency and Timing Are Associated with Changes in Body Mass Index in Adventist Health Study 2]]
 10.  [https://pubmed.ncbi.nlm.nih.gov/30925707/](https://pubmed.ncbi.nlm.nih.gov/30925707/)
 11.  [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6520689/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6520689/)

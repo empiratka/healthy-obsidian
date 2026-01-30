@@ -8,9 +8,9 @@ Population:
 
 Results:
 - lower [[behavior_meal_frequency|meal frequency]] (1–2 meals/day) → ↓ [[metric_body_mass_index|BMI]]
-- [[behavior_snacking_between_meals|snacking]] (>3 meals/day) → ↑ BMI
+- [[behavior_meal_distribution_snacking|snacking]] (>3 meals/day) → ↑ BMI
 - long [[behavior_overnight_fasting|overnight fasting]] (≥18 h) → ↓ BMI
-- [[behavior_breakfast_consumption|breakfast consumption]] → ↓ BMI vs [[behavior_breakfast_omission|skipping]]
+- [[behavior_breakfast_consumption|breakfast consumption]] → ↓ BMI vs [[behavior_meal_distribution_breakfast_omission|skipping]]
 - eating the [[behavior_largest_meal_morning|largest meal in the morning]] → greater ↓ BMI than largest meal at dinner
 - large lunch → ↓ BMI vs large dinner (effect smaller than breakfast)
 

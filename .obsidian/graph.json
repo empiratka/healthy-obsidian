@@ -1,12 +1,34 @@
 {
   "collapse-filter": false,
-  "search": "path:0ontology/res - path:0ontology/res/context  ",
+  "search": "path:0ontology/base",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:0ontology/base/condition  ",
+      "color": {
+        "a": 1,
+        "rgb": 12135732
+      }
+    },
+    {
+      "query": "path:0ontology/base/behavior  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:0ontology/base/nutrients  ",
+      "color": {
+        "a": 1,
+        "rgb": 12082130
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +39,6 @@
   "repelStrength": 10.6652806652807,
   "linkStrength": 0.849272349272349,
   "linkDistance": 122,
-  "scale": 0.24522555850832572,
-  "close": false
+  "scale": 0.4820045790756169,
+  "close": true
 }

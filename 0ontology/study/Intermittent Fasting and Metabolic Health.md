@@ -1,7 +1,7 @@
 Type: [[study]]
 
-# Key points
-## Potential benefits
+## Key points
+### Potential benefits
 - [[behavior_intermittent_fasting|Intermittent fasting]] (IF) is associated with:
     - [[weight loss]]
     - [[reduced insulin resistance]]
@@ -9,12 +9,12 @@ Type: [[study]]
 - Pre-clinical and clinical studies suggest benefits in:
     - [[condition_obesity|obesity]]
     - [[condition_diabetes_type2|T2DM]]
-    - [[hypertension]]
+    - [[condition_hypertension]]
     - [[cardiovascular risk factors]]
-## Comparative effectiveness
+### Comparative effectiveness
 - Despite strong animal data, many clinical trials **do not show IF to be significantly superior to calorie restriction**.
 - This raises questions about whether observed benefits are specific to IF or primarily driven by reduced energy intake.
-## Data limitations (critical)
+### Data limitations (critical)
 - There is a **lack of large, long-term randomized controlled trials (RCTs)** evaluating:
     - efficacy of IF
     - side effects and safety

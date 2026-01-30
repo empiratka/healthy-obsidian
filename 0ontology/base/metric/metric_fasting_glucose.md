@@ -1,0 +1,5 @@
+---
+aliases:
+  - fasting glucose
+  - glucose
+---

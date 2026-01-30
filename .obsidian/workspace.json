@@ -4,195 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "c051765dfc378205",
-        "type": "tabs",
-        "dimension": 81.54981549815497,
-        "children": [
-          {
-            "id": "b7e033a9f2c18265",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0ontology/todo/todo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "todo"
-            }
-          },
-          {
-            "id": "1b22faad03c39d45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0ontology/todo/ontology.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ontology"
-            }
-          },
-          {
-            "id": "bb4bf0ff7f6d1aef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project/1Питание/Соединения/Витамины/Витамин K2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Витамин K2"
-            }
-          },
-          {
-            "id": "2632d6af0b5ff719",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0ontology/Untitled.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "f68ad21ced5492f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0ontology/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "c96bb99cee7a08bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0ontology/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "46e2e4e496532fa8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0ontology/res/behavior/behavior_breakfast_omission.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "behavior_breakfast_omission"
-            }
-          },
-          {
-            "id": "11d5e2d6aba96225",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0ontology/res/behavior/behavior_breakfast_omission.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "behavior_breakfast_omission"
-            }
-          },
-          {
-            "id": "61d49303b1bfcbb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0ontology/res/condition/condition_obesity.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "condition_obesity"
-            }
-          },
-          {
-            "id": "d94addbed5b33ecc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0ontology/res/context/context_sex_female.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "context_sex_female"
-            }
-          },
-          {
-            "id": "6d1e6121699bb7b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0ontology/res/condition/condition_diabetes_gestational.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "condition_diabetes_gestational"
-            }
-          },
-          {
-            "id": "54cac980440c7d9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0ontology/res/overview_eating_behavior.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "overview_eating_behavior"
-            }
-          }
-        ],
-        "currentTab": 11
-      },
-      {
         "id": "b94071b8dc344074",
         "type": "tabs",
-        "dimension": 18.45018450184502,
         "children": [
           {
             "id": "a961ec20684082c1",
@@ -209,8 +22,47 @@
               "icon": "lucide-file",
               "title": "Untitled"
             }
+          },
+          {
+            "id": "437738feb27c43ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0ontology/base/behavior/meal/distribution/behavior_meal_distribution_breakfast_high_calorie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "behavior_meal_distribution_breakfast_high_calorie"
+            }
+          },
+          {
+            "id": "fc05bb521f905663",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0ontology/base/behavior/meal/frequency/behavior_meal_frequency.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "behavior_meal_frequency"
+            }
+          },
+          {
+            "id": "4e630ee24e7bc08d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -242,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "вита",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -267,7 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 408.5
+    "width": 445.5
   },
   "right": {
     "id": "f3519d4691b568de",
@@ -380,45 +232,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e580124986e404b",
+  "active": "4e630ee24e7bc08d",
   "lastOpenFiles": [
-    "0ontology/res/overview_timing_of_eating.md",
-    "0ontology/res/overview_frequency_of_eating.md",
+    "0ontology/base/behavior/meal/frequency/behavior_meal_frequency.md",
+    "0ontology/base/behavior/meal/distribution/behavior_meal_distribution_breakfast_high_calorie.md",
+    "0ontology/base/behavior/meal/distribution/behavior_meal_distribution_dinner_high_calorie.md",
+    "0ontology/base/behavior/meal/distribution/behavior_meal_distribution_dinner_late.md",
     "0ontology/Untitled.md",
-    "0ontology/study/Meal Frequency and Timing Are Associated with Changes in Body Mass Index in Adventist Health Study 2.md",
-    "0ontology/res/condition/condition_diabetes.md",
-    "0ontology/study/Intermittent Fasting Is the Wait Worth the Weight.md",
-    "0ontology/study/High caloric intake at breakfast vs. dinner differentially influences weight loss of overweight and obese women.md",
-    "0ontology/res/condition/condition_pregnancy.md",
-    "0ontology/res/condition/condition_diabetes_gestational.md",
-    "0ontology/res/condition/condition_diabetes_type1.md",
-    "0ontology/res/condition/condition_diabetes_type2.md",
-    "0ontology/res/context/context_sex_male.md",
-    "0ontology/res/overview_eating_behavior.md",
-    "0ontology/res/behavior/behavior_meal_frequency.md",
-    "0ontology/res/metric_body_mass_index.md",
-    "0ontology/res/condition",
-    "0ontology/res/behavior/behavior_alternate_day_fasting.md",
-    "0ontology/res/behavior",
-    "0ontology/res/context/context_sex_female.md",
-    "0ontology/res/behavior/behavior_breakfast_omission.md",
-    "0ontology/res/context",
-    "0ontology/res/behavior/behavior_high_calorie_breakfast.md",
-    "0ontology/types/overview.md",
-    "0ontology/res/glucose_metabolism.md",
-    "0ontology/study/HOMA-IR.md",
     "0ontology/study/Time-Restricted Feeding and Intermittent Fasting as Preventive Therapeutics.md",
+    "0ontology/study/22456660.md",
     "0ontology/study/The production of provitamin A-rich  vegetables in home-gardens as a means of  addressing vitamin A deficiency in rural African communities.md",
     "0ontology/study/The Importance of Breakfast in Atherosclerosis Disease.md",
+    "0ontology/study/Meal Frequency and Timing Are Associated with Changes in Body Mass Index in Adventist Health Study 2.md",
+    "0ontology/study/Intermittent Fasting Is the Wait Worth the Weight.md",
     "0ontology/study/Intermittent Fasting and Metabolic Health.md",
-    "0ontology/res",
-    "0ontology/res/nutrients",
-    "0ontology/study",
+    "0ontology/study/23512957.md",
+    "0ontology/study/23877060.md",
+    "0ontology/base/diet_quality.md",
+    "0ontology/base/outcomes/outcome_satiety.md",
+    "0ontology/base/outcomes/outcome_hunger.md",
+    "0ontology/base/outcomes",
+    "0ontology/base/metric/metric_triglyceride_levels.md",
+    "0ontology/base/metric/metric_fasting_glucose.md",
+    "0ontology/base/metric/metric_fasting_insulin.md",
+    "0ontology/base/metric/metric_HOMA-IR.md",
+    "Res/Templates/ontology/study/study_intervention_characteristics.md",
+    "0ontology/base/metric/metric_weight.md",
+    "0ontology/base/metric/metric_waist_circumference.md",
+    "0ontology/base/behavior/meal/restriction/behavior_meal_restriction_calorie.md",
+    "0ontology/base/condition/condition_metabolic_syndrome.md",
+    "0ontology/helper",
+    "Res/Templates/ontology/nutrients",
+    "0ontology/base/behavior/meal/restriction",
+    "0ontology/helper/types/study",
+    "Res/Templates/ontology/study",
+    "0ontology/base/behavior/meal/distribution",
+    "0ontology/base/behavior/meal/frequency",
+    "0ontology/base/metric",
+    "0ontology/overview",
     "Res/Files/Pasted image 20260113075712.png",
-    "0ontology/types/nutrients",
-    "0ontology/todo",
-    "0ontology/types",
-    "0ontology",
     "Res/Files/Pasted image 20260110180626.png",
     "Res/Files/Pasted image 20260110180448.png",
     "Res/Files/Pasted image 20260110180415.png",

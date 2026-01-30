@@ -17,7 +17,7 @@ Breakfast patterns:
 - Skipping breakfast (<5% of total daily energy)
 
 Findings:
-- Compared with high-energy breakfast, habitual [[behavior_breakfast_omission|skipping breakfast]] was associated with:
+- Compared with high-energy breakfast, habitual [[behavior_meal_distribution_breakfast_omission|skipping breakfast]] was associated with:
   - higher prevalence of [[noncoronary atherosclerosis]] (OR 1.55; 95% CI 0.97–2.46)
   - higher prevalence of [[generalized atherosclerosis]] (OR 2.57; 95% CI 1.54–4.31)
 

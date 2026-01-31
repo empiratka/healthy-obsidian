@@ -1,5 +1,5 @@
 
-type: [[study]] [[meta-analysis]]
+type: [[study]] [[study_design_meta-analysis]]
 
 Focus:
 Clinical applications and limitations of intermittent fasting.

@@ -7,7 +7,7 @@ Population:
 - long-term follow-up (~7 years)
 
 Results:
-- lower [[behavior_meal_frequency|meal frequency]] (1–2 meals/day) → ↓ [[metric_body_mass_index|BMI]]
+- lower [[behavior_meal_frequency|meal frequency]] (1–2 meals/day) → ↓ [[metric_anthropometric_body_mass_index|BMI]]
 - [[behavior_meal_distribution_snacking|snacking]] (>3 meals/day) → ↑ BMI
 - long [[behavior_overnight_fasting|overnight fasting]] (≥18 h) → ↓ BMI
 - [[behavior_breakfast_consumption|breakfast consumption]] → ↓ BMI vs [[behavior_meal_distribution_breakfast_omission|skipping]]

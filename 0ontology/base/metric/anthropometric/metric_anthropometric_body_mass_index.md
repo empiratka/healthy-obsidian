@@ -1,6 +1,8 @@
 ---
 aliases:
   - BMI
+tags:
+  - behavior_meal
 ---
 
 ## Body Mass Index (BMI)
@@ -9,7 +11,7 @@ aliases:
 type: [[metric]]
 
 Description:
-Anthropometric index calculated as weight (kg) / height² (m²).
+Anthropometric index calculated as [[metric_anthropometric_weight|weight]] (kg) / height² (m²).
 Used as a proxy measure of adiposity.
 
 Notes:

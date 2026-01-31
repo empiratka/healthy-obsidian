@@ -1,4 +1,5 @@
 ---
 aliases:
   - cardiovascular disease
+  - CVDs
 ---

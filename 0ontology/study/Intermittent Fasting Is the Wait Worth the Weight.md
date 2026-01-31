@@ -1,4 +1,4 @@
-Type: [[study]] [[meta-analysis]]
+Type: [[study]] [[study_design_meta-analysis]]
 
 Focus:
 Mechanistic and physiological effects of intermittent fasting.

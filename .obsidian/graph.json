@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:0ontology/base",
+  "search": "tag:#behavior_meal  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -11,7 +11,7 @@
       "query": "path:0ontology/base/condition  ",
       "color": {
         "a": 1,
-        "rgb": 12135732
+        "rgb": 14048348
       }
     },
     {
@@ -22,23 +22,23 @@
       }
     },
     {
-      "query": "path:0ontology/base/nutrients  ",
+      "query": "path:0ontology/base/metric  ",
       "color": {
         "a": 1,
-        "rgb": 12082130
+        "rgb": 15771875
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.441787941787942,
-  "repelStrength": 10.6652806652807,
-  "linkStrength": 0.849272349272349,
-  "linkDistance": 122,
-  "scale": 0.4820045790756169,
+  "centerStrength": 0.408523908523909,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.24522555850837255,
   "close": true
 }

@@ -2,6 +2,8 @@
 aliases:
   - intermittent fasting
   - IF
+tags:
+  - behavior_meal
 ---
 ## Intermittent fasting
 Интервальное голодание

@@ -1,6 +1,8 @@
 ---
 aliases:
   - calorie restriction
+tags:
+  - behavior_meal
 ---
 ## Calorie restriction
 Ограничение калорийности

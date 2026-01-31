@@ -2,8 +2,10 @@
 aliases:
   - time-restricted fasting
   - TRF
+tags:
+  - behavior_meal
 ---
-# Time-Restricted Fasting
+## Time-Restricted Fasting
 Ограниченное по времени питание
 
 Type: [[behavior]]

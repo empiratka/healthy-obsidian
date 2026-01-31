@@ -1,6 +1,8 @@
 ---
 aliases:
   - diabetes
+tags:
+  - behavior_meal
 ---
 ## Diabetes Mellitus
 

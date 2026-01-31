@@ -1,4 +1,8 @@
-# Snacking between meals
+---
+tags:
+  - behavior_meal
+---
+## Snacking between meals
 Перекус между приемами пищи
 
 Type: [[behavior]]

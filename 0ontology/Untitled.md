@@ -8,7 +8,7 @@
 7. [[23877060]]
 8. [[23512957]]
 9.  [[Meal Frequency and Timing Are Associated with Changes in Body Mass Index in Adventist Health Study 2]]
-10.  [https://pubmed.ncbi.nlm.nih.gov/30925707/](https://pubmed.ncbi.nlm.nih.gov/30925707/)
+10.  [[30925707]]
 11.  [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6520689/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6520689/)
 12.  [https://pubmed.ncbi.nlm.nih.gov/17214875/](https://pubmed.ncbi.nlm.nih.gov/17214875/)
 13.  [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3227713/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3227713/)

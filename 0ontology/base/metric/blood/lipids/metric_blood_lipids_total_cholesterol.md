@@ -1,0 +1,5 @@
+---
+aliases:
+  - total cholesterol
+  - TC
+---

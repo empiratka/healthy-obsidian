@@ -2,8 +2,10 @@
 aliases:
   - alternate-day fasting
   - ADF
+tags:
+  - behavior_meal
 ---
-# Alternate-day fasting
+## Alternate-day fasting
 Голодание через день
 
 Type: [[behavior]]

@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "tag:#behavior_meal  ",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -27,6 +27,34 @@
         "a": 1,
         "rgb": 15771875
       }
+    },
+    {
+      "query": "path:0ontology/base/nutrients  ",
+      "color": {
+        "a": 1,
+        "rgb": 10247912
+      }
+    },
+    {
+      "query": "path:\"Project/4Состояние организма\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16057677
+      }
+    },
+    {
+      "query": "path:\"Project/5Части организма\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    },
+    {
+      "query": "path:Project/1Питание  ",
+      "color": {
+        "a": 1,
+        "rgb": 8181340
+      }
     }
   ],
   "collapse-display": false,
@@ -39,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.24522555850837255,
-  "close": true
+  "scale": 1.6713382732070743,
+  "close": false
 }

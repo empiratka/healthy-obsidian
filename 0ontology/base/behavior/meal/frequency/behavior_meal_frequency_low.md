@@ -1,6 +1,6 @@
 ---
 aliases:
-  - 1–2 times/d
+  - 1-2 times/d
 tags:
   - behavior_meal
 ---

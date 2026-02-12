@@ -24,35 +24,51 @@
             }
           },
           {
-            "id": "133e640520d2e820",
+            "id": "699bf90c9385ff12",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0ontology/study/28137935.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "28137935"
+            }
+          },
+          {
+            "id": "b8ac51d8e75ff09e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0ontology/base/metric/blood/lipids/metric_blood_lipids.md",
+                "file": "0ontology/study/23512957.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "metric_blood_lipids"
+              "title": "23512957"
             }
           },
           {
-            "id": "7b17ba29cdc13c73",
+            "id": "b7db18accf5762ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0ontology/base/behavior/meal/restriction/behavior_meal_restriction_time_restricted_fasting.md",
+                "file": "Project/5Части организма/Иммунитет.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "behavior_meal_restriction_time_restricted_fasting"
+              "title": "Иммунитет"
             }
           },
           {
-            "id": "8a7f6a6b21f9121b",
+            "id": "b6431ee2cd5a4ec1",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -62,21 +78,21 @@
             }
           },
           {
-            "id": "aa7070e6c6eb45be",
+            "id": "25c6b28c5b981a4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0ontology/helper/types/study/design/study_design_systematic_review.md",
+                "file": "Сахар.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "study_design_systematic_review"
+              "title": "Сахар"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -133,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 200
   },
   "right": {
     "id": "f3519d4691b568de",
@@ -246,54 +262,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e580124986e404b",
+  "active": "25c6b28c5b981a4b",
   "lastOpenFiles": [
-    "0ontology/helper/types/study/design/study_design_meta-analysis.md",
-    "0ontology/helper/types/study/design/study_design_systematic_review.md",
-    "0ontology/helper/types/study/design/study_design_cross-sectional.md",
-    "0ontology/helper/types/study/design/study_design.md",
-    "0ontology/helper/types/study/design/study_design_longitudinal_cohort.md",
-    "0ontology/helper/types/study/design/study_design_longitudinal.md",
-    "0ontology/helper/types/study/design/study_design_randomized_controlled_trial.md",
-    "0ontology/helper/types/study/design",
-    "0ontology/study/30925707.md",
-    "0ontology/base/metric/blood/lipids/metric_blood_lipids.md",
+    "Project/5Части организма/Иммунитет.md",
+    "0ontology/study/23512957.md",
     "0ontology/study/22456660.md",
-    "0ontology/base/behavior/meal/restriction/behavior_meal_restriction_time_restricted_fasting.md",
-    "0ontology/base/behavior/meal/restriction/behavior_meal_restriction_time_alternate-day_fasting.md",
-    "0ontology/base/behavior/meal/restriction/behavior_meal_restriction_time.md",
-    "0ontology/base/behavior/meal/restriction/behavior_meal_restriction_calorie.md",
-    "0ontology/base/behavior/meal/frequency/behavior_meal_frequency_medium.md",
+    "0ontology/study/30925707.md",
+    "0ontology/study/28137935.md",
+    "0ontology/study/32437566.md",
+    "Res/Files/Pasted image 20260205144716.png",
+    "0ontology/overview/study/overview_28701389.md",
+    "0ontology/study/28701389.md",
+    "0ontology/overview/behavior_meal.md",
+    "0ontology/overview/study",
+    "0ontology/study/25404320.md",
+    "Res/Files/Pasted image 20260205130839.png.~tmp",
+    "Res/Files/Pasted image 20260205130839.png",
+    "Res/Files/Pasted image 20260205130749.png.~tmp",
+    "Res/Files/Pasted image 20260205130749.png",
+    "Res/Files/Pasted image 20260205130710.png.~tmp",
+    "Res/Files/Pasted image 20260205130710.png",
+    "0ontology/base/condition/condition_obesity.md",
+    "Res/Files/Pasted image 20260205130411.png.~tmp",
+    "Res/Files/Pasted image 20260205130411.png",
+    "0ontology/comparison/comparison_behavior_meal_frequency_high_vs_low.md",
+    "0ontology/helper/types/study/design/study_design_systematic_review.md",
     "0ontology/base/behavior/meal/frequency/behavior_meal_frequency_low.md",
-    "0ontology/base/behavior/meal/frequency/behavior_meal_frequency_high.md",
-    "0ontology/base/behavior/meal/frequency/behavior_meal_frequency.md",
-    "0ontology/base/behavior/meal/distribution/behavior_meal_distribution_snacking.md",
-    "0ontology/base/behavior/meal/distribution/behavior_meal_distribution_lunch.md",
-    "0ontology/base/behavior/meal/distribution/behavior_meal_distribution_dinner_late.md",
-    "0ontology/base/behavior/meal/distribution/behavior_meal_distribution_dinner_high_calorie.md",
-    "0ontology/base/behavior/meal/distribution/behavior_meal_distribution_breakfast_omission.md",
-    "0ontology/base/diet_quality.md",
-    "0ontology/base/condition/condition_diabetes.md",
-    "0ontology/base/condition/condition_hypercholesterolemia.md",
+    "Project/0Справка/Физические характеристики/Плотность.md",
+    "Project/8Красота/Уход/Курс Амины/Теория/Церамиды.md",
+    "Project/1Питание/Диеты/Голодание.md",
+    "Project/2Спорт/Общая нагрузка.md",
+    "Project/8Красота/Уход/Курс Амины/Средства/Очищение/Пена.md",
+    "Project/1Питание/Соединения/Фитонутриенты/Гликоалкалоиды/Гликоалкалоиды.md",
+    "0ontology/base/condition/condition_hypercholesterolaemia.md",
+    "0ontology/Untitled.md",
+    "Project/1Питание/Продукты/Овощи/Крестоцветные/Капуста.md",
+    "0ontology/helper/types/study/design/study_design_cross-sectional.md",
+    "0ontology/base/condition/condition_impaired_glucose_tolerance.md",
+    "0ontology/study/23877060.md",
+    "0ontology/comparison",
+    "0ontology/helper/types/study/design",
     "0ontology/base/metric/blood/lipids",
     "0ontology/base/metric/blood",
     "0ontology/base/metric/anthropometric",
-    "0ontology/base/outcomes",
-    "0ontology/helper",
-    "Res/Templates/ontology/nutrients",
-    "0ontology/base/behavior/meal/restriction",
-    "0ontology/helper/types/study",
-    "Res/Templates/ontology/study",
     "Res/Files/Pasted image 20260113075712.png",
     "Res/Files/Pasted image 20260110180626.png",
     "Res/Files/Pasted image 20260110180448.png",
     "Res/Files/Pasted image 20260110180415.png",
     "Res/Files/Pasted image 20260110175739.png",
-    "Res/Files/Pasted image 20260109165117.png",
-    "Res/Files/Pasted image 20260109165033.png",
-    "Res/Files/Pasted image 20260109164841.png",
-    "Res/Files/Pasted image 20260109162604.png",
-    "Res/Files/Pasted image 20260109154414.png",
     "Project/7Красота/Untitled.canvas",
     "Project/1Питание/Untitled.canvas",
     "Untitled.canvas"

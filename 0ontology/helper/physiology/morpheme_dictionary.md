@@ -1,0 +1,131 @@
+- [[morpheme_dictionary_prefixes|Prefixes]]
+- [[morpheme_dictionary_roots|Roots]]
+- [[morpheme_dictionary_suffixes|Suffixes]]
+
+- a- / an-
+	- without, absence
+- anti-
+	- against
+- -ase
+	- signifies an enzyme
+- - auto-
+	- self
+- bi- / di-
+	- two
+- brady-
+	- slow
+- cardio-
+	- heart
+- cephalo-
+	- head
+- cerebro-
+	- brain
+- contra-
+	- against
+- -crine
+	- a secretion
+- crypt-
+	- hidden
+- cutan-
+	- skin
+- -cyte / cyto-
+	- cell
+- de-
+	- without, lacking
+- dys-
+	- difficult, faulty
+- -elle
+	- small
+- -emia
+	- in the blood
+- endo- 
+	- inside, within
+- epi-
+	- over
+- erythro-
+	- red
+- exo- / extra-
+	- outside
+- gastro-
+	- stomach
+- -gen, -genie
+	- produce
+- gluco- glyco
+	- sugar or sweet
+- hemi-
+	- half
+- hemo-
+	- blood
+- hepato-
+	- liver
+- homo-
+	- same
+- hydro-
+	- water
+- hyper-
+	- above, excess
+- hypo-
+	- beneath, deficient
+- inter-
+	- between
+- intra-
+	- within
+- -itis
+	- inflammation of
+- kali-
+	- potassium
+- leuko-
+	- white
+- lipo-
+	- fat
+- lumen 
+	- inside of hollow tube
+- -lysis
+	- split apart of rupture
+- macro-
+	- large
+- micro-
+	- small
+- mono-
+	- one
+- multi-
+	- many
+- myo-
+	- muscle
+- oligo-
+	- little, few
+- -ome, -omics
+- para-
+	- near, close
+- patho-, -pathy
+	- related to disease
+- peri-
+	- around
+- poly-
+	- many
+- post-
+	- after
+- pre-
+	- before
+- pro-
+	- before
+- pseudo-
+	- false
+- re-
+	- again
+- retro-
+	- backward oк behind
+- semi-
+	- half
+- sub-
+	- below
+- super-
+	- above, beyond
+- supra-
+	- above, top of 
+- tachy-
+	- rapid
+- trans-
+	- across, through
+- 
+

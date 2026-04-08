@@ -8,91 +8,65 @@
         "type": "tabs",
         "children": [
           {
-            "id": "479b0d6a6a59d02a",
+            "id": "0ec29f06faa8c282",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0ontology/base/products/grain/grain.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "grain"
+            }
+          },
+          {
+            "id": "a5bbe2ffbd145546",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0ontology/study/30925707.md",
+                "file": "Project/1Питание/Продукты/Зерновые/Зерновые.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "30925707"
+              "title": "Зерновые"
             }
           },
           {
-            "id": "699bf90c9385ff12",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0ontology/study/28137935.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "28137935"
-            }
-          },
-          {
-            "id": "b8ac51d8e75ff09e",
+            "id": "0612025f617db977",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0ontology/study/23512957.md",
+                "file": "Project/1Питание/Продукты/Зерновые/Амарант.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23512957"
+              "title": "Амарант"
             }
           },
           {
-            "id": "b7db18accf5762ee",
+            "id": "079c65fb273e3353",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/5Части организма/Иммунитет.md",
+                "file": "0ontology/base/products/grain/grain.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Иммунитет"
-            }
-          },
-          {
-            "id": "b6431ee2cd5a4ec1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "25c6b28c5b981a4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Сахар.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Сахар"
+              "title": "grain"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -124,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#таблицаПитание",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,7 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 275.5
   },
   "right": {
     "id": "f3519d4691b568de",
@@ -165,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00Plan.md",
+                "file": "Project/1Питание/Продукты/Животные продукты/Молочные продукты/Молочные продукты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +149,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 00Plan"
+              "title": "Backlinks for Молочные продукты"
             }
           },
           {
@@ -184,12 +158,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Workspace/Projects/Здоровье/Питание/Соединения/Лектины.md",
+                "file": "Project/1Питание/Продукты/Животные продукты/Молочные продукты/Молочные продукты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Лектины"
+              "title": "Outgoing links from Молочные продукты"
             }
           },
           {
@@ -211,10 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Workspace/Projects/Здоровье/Питание/Соединения/Лектины.md"
+                "file": "Project/1Питание/Продукты/Животные продукты/Молочные продукты/Молочные продукты.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Лектины"
+              "title": "Outline of Молочные продукты"
             }
           },
           {
@@ -246,7 +223,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 373.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -262,54 +239,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "25c6b28c5b981a4b",
+  "active": "079c65fb273e3353",
   "lastOpenFiles": [
-    "Project/5Части организма/Иммунитет.md",
-    "0ontology/study/23512957.md",
-    "0ontology/study/22456660.md",
-    "0ontology/study/30925707.md",
+    "Project/1Питание/Продукты/Зерновые/Зерновые.md",
+    "0ontology/base/products/grain/grain.md",
     "0ontology/study/28137935.md",
-    "0ontology/study/32437566.md",
+    "0ontology/study/30925707.md",
+    "Res/Files/Pasted image 20260401203744.png",
+    "Project/1Питание/Продукты/Зерновые/Амарант.md",
+    "Res/Files/Pasted image 20240124212257.png",
+    "Project/1Питание/Продукты/Масла растительные/Масла.md",
+    "Project/1Питание/Продолжительность жизни.md",
+    "0ontology/helper/physiology/Organ Systems.md",
+    "0ontology/helper/physiology/morpheme_dictionary.md",
+    "Project/1Питание/Соединения/Карбоновые кислоты/ЖК/Омега-3.md",
+    "Project/5Части организма/Кровь/Агрегация тромбоцитов.md",
+    "Project/1Питание/Общая смертность.md",
+    "0ontology/base/nutrients/vitamin/vitamin_A.md",
+    "0ontology/base/products/grain",
+    "0ontology/base/nutrients/vitamin/vitamin_A_absorption.md",
+    "0ontology/base/nutrients/vitamin",
+    "Project/1Питание/Соединения/Карбоновые кислоты/ЖК/ЖК.md",
+    "Project/1Питание/Продукты/Зерновые/Untitled 1.base",
+    "0ontology/base/products",
+    "Project/1Питание/Продукты/Зерновые/Untitled.base",
+    "Project/1Питание/Продукты/Бобовые/Сухие/Бобовые сухие.md",
+    "Project/1Питание/Продукты/Бобовые/Бобовые.md",
+    "Project/1Питание/Продукты/Животные продукты/Рыба.md",
+    "Project/1Питание/Продукты/Зерновые/Гречка.md",
+    "Project/1Питание/Продукты/Животные продукты/Молочные продукты/Молочные продукты.md",
+    "Project/1Питание/Продукты/Животные продукты/Молочные продукты/Йогурт.md",
+    "Project/1Питание/Продукты/Животные продукты/Молочные продукты/Кефир.md",
+    "Project/1Питание/Продукты/Животные продукты/Молочные продукты/Молоко.md",
+    "TODO_old.md",
+    "Project/1Питание/Диеты/Фруктоедение.md",
+    "Project/6Измерения/Продукты/Калории.md",
+    "Project/1Питание/Соединения/Белок/Untitled.base",
+    "Res/Files/Pasted image 20260225162841.png",
+    "Res/Files/Pasted image 20260225162125.png",
+    "0ontology/helper/physiology",
     "Res/Files/Pasted image 20260205144716.png",
-    "0ontology/overview/study/overview_28701389.md",
-    "0ontology/study/28701389.md",
-    "0ontology/overview/behavior_meal.md",
     "0ontology/overview/study",
-    "0ontology/study/25404320.md",
     "Res/Files/Pasted image 20260205130839.png.~tmp",
     "Res/Files/Pasted image 20260205130839.png",
     "Res/Files/Pasted image 20260205130749.png.~tmp",
     "Res/Files/Pasted image 20260205130749.png",
-    "Res/Files/Pasted image 20260205130710.png.~tmp",
     "Res/Files/Pasted image 20260205130710.png",
-    "0ontology/base/condition/condition_obesity.md",
-    "Res/Files/Pasted image 20260205130411.png.~tmp",
     "Res/Files/Pasted image 20260205130411.png",
-    "0ontology/comparison/comparison_behavior_meal_frequency_high_vs_low.md",
-    "0ontology/helper/types/study/design/study_design_systematic_review.md",
-    "0ontology/base/behavior/meal/frequency/behavior_meal_frequency_low.md",
-    "Project/0Справка/Физические характеристики/Плотность.md",
-    "Project/8Красота/Уход/Курс Амины/Теория/Церамиды.md",
-    "Project/1Питание/Диеты/Голодание.md",
-    "Project/2Спорт/Общая нагрузка.md",
-    "Project/8Красота/Уход/Курс Амины/Средства/Очищение/Пена.md",
-    "Project/1Питание/Соединения/Фитонутриенты/Гликоалкалоиды/Гликоалкалоиды.md",
-    "0ontology/base/condition/condition_hypercholesterolaemia.md",
-    "0ontology/Untitled.md",
-    "Project/1Питание/Продукты/Овощи/Крестоцветные/Капуста.md",
-    "0ontology/helper/types/study/design/study_design_cross-sectional.md",
-    "0ontology/base/condition/condition_impaired_glucose_tolerance.md",
-    "0ontology/study/23877060.md",
-    "0ontology/comparison",
-    "0ontology/helper/types/study/design",
-    "0ontology/base/metric/blood/lipids",
-    "0ontology/base/metric/blood",
-    "0ontology/base/metric/anthropometric",
     "Res/Files/Pasted image 20260113075712.png",
-    "Res/Files/Pasted image 20260110180626.png",
-    "Res/Files/Pasted image 20260110180448.png",
-    "Res/Files/Pasted image 20260110180415.png",
-    "Res/Files/Pasted image 20260110175739.png",
     "Project/7Красота/Untitled.canvas",
     "Project/1Питание/Untitled.canvas",
     "Untitled.canvas"

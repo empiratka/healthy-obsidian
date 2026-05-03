@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "6ab972d778510818",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a59bd287b2aa8ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43d844f16cb66987",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/1Питание/Продукты/Зерновые/Цельнозерновые.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Цельнозерновые"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6bcda4bd88551931",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d179a0ca8c76d990",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "df171707b3248565",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "00bf5121e906c619",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "8963b20efccc9ed6",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "4088fb1dbcc8f5c3",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "4e9fe721f9d6d5a3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "196ce7541e49f138",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Project/1Питание/Продукты/Зерновые/Цельнозерновые.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "a684abc87d590f1b",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "55672f85eaaf70a1",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "f72c2835a56c49f2",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "bases:Create new base": false,
+      "dbfolder:Create a new database table": false,
+      "janitor:Janitor: scan vault": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "43d844f16cb66987",
+  "lastOpenFiles": [
+    "Project/1Питание/Продукты/Зерновые/Амарант.md",
+    "Project/1Питание/Продукты/Зерновые/Цельнозерновые.md",
+    "Project/1Питание/Продукты/Зерновые/Зерновые.md",
+    "0ontology/base/products/grain/grain.md",
+    "0ontology/base/products/grain/grain_oat.md",
+    "0ontology/base/products/grain/grain_амарант.md",
+    "0ontology/base/products/grain/grain_греча.md",
+    "Project/1Питание/Продукты/Ягоды и фрукты/Ягоды/Ягоды.md",
+    "Project/1Питание/Продукты/Ягоды и фрукты/Фрукты/Фрукты.md",
+    "0ontology/base/condition/diabetes/condition_diabetes.md",
+    "0ontology/base/condition/diabetes/condition_diabetes_gestational.md",
+    "0ontology/base/condition/diabetes/condition_diabetes_type2.md",
+    "0ontology/base/condition/diabetes/condition_diabetes_type1.md",
+    "0ontology/base/condition/diabetes",
+    "0ontology/base/diet_quality.md",
+    "Project/1Питание/Общая смертность.md",
+    "Project/Route/Topical/Огурец topical.md",
+    "0ontology/Untitled.md",
+    "TODO_old.md",
+    "Res/Templates/ontology/study/study_type.md",
+    "Res/Templates/ontology/study/study_properties.md",
+    "Res/Templates/ontology/study/study_population.md",
+    "Res/Templates/ontology/study/study_intervention_characteristics.md",
+    "Res/Templates/ontology/study/study_finding.md",
+    "Res/Templates/ontology/study/study_duration.md",
+    "Res/Templates/ontology/nutrients/vitamin_template.md",
+    "Res/Templates/ontology/type.md",
+    "Res/Templates/ontology/study",
+    "Res/Templates/ontology/nutrients",
+    "Res/Templates/ontology",
+    "Res/Templates",
+    "Res/Files/Pasted image 20260401203744.png",
+    "Res/Files/Pasted image 20260225162841.png",
+    "Res/Files/Pasted image 20260225162125.png",
+    "Res/Files/Pasted image 20260205144716.png",
+    "Res/Files/Pasted image 20260205130839.png",
+    "Res/Files/Pasted image 20260205130749.png",
+    "Res/Files/Pasted image 20260205130710.png",
+    "Res/Files/Pasted image 20260205130411.png",
+    "Res/Files/Pasted image 20260113075712.png",
+    "Res/Files/Pasted image 20260110180626.png",
+    "Project/Route/Topical",
+    "Project/Route",
+    "Project/Relation",
+    "Project/8Красота/Уход/Курс Амины/Средства/Увлажнение",
+    "Project/8Красота/Уход/Курс Амины/Средства/Очищение"
+  ]
+}

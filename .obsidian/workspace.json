@@ -13,60 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0ontology/base/products/grain/grain.md",
+                "file": "0ontology/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "grain"
-            }
-          },
-          {
-            "id": "a5bbe2ffbd145546",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project/1Питание/Продукты/Зерновые/Зерновые.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Зерновые"
-            }
-          },
-          {
-            "id": "0612025f617db977",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project/1Питание/Продукты/Зерновые/Амарант.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Амарант"
-            }
-          },
-          {
-            "id": "079c65fb273e3353",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0ontology/base/products/grain/grain.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "grain"
+              "title": "Untitled"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#таблицаПитание",
+                "query": "кремний",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 200
   },
   "right": {
     "id": "f3519d4691b568de",
@@ -239,54 +194,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "079c65fb273e3353",
+  "active": "3e580124986e404b",
   "lastOpenFiles": [
+    "0ontology/base/products/categories/seeds/cereals_other.md",
+    "0ontology/base/diet_quality.md",
+    "0ontology/base/products/categories/seeds/cereals.md",
+    "0ontology/base/outcomes/outcome_hunger.md",
+    "0ontology/base/outcomes/outcome_satiety.md",
+    "0ontology/base/nutrients/antioxidant/antioxidant_seeds.md",
+    "0ontology/base/nutrients/antioxidant/antioxidant.md",
+    "0ontology/base/nutrients/antioxidant/antioxidant_vegetables.md",
     "Project/1Питание/Продукты/Зерновые/Зерновые.md",
-    "0ontology/base/products/grain/grain.md",
-    "0ontology/study/28137935.md",
-    "0ontology/study/30925707.md",
-    "Res/Files/Pasted image 20260401203744.png",
-    "Project/1Питание/Продукты/Зерновые/Амарант.md",
-    "Res/Files/Pasted image 20240124212257.png",
-    "Project/1Питание/Продукты/Масла растительные/Масла.md",
-    "Project/1Питание/Продолжительность жизни.md",
-    "0ontology/helper/physiology/Organ Systems.md",
-    "0ontology/helper/physiology/morpheme_dictionary.md",
-    "Project/1Питание/Соединения/Карбоновые кислоты/ЖК/Омега-3.md",
-    "Project/5Части организма/Кровь/Агрегация тромбоцитов.md",
     "Project/1Питание/Общая смертность.md",
-    "0ontology/base/nutrients/vitamin/vitamin_A.md",
-    "0ontology/base/products/grain",
-    "0ontology/base/nutrients/vitamin/vitamin_A_absorption.md",
-    "0ontology/base/nutrients/vitamin",
-    "Project/1Питание/Соединения/Карбоновые кислоты/ЖК/ЖК.md",
-    "Project/1Питание/Продукты/Зерновые/Untitled 1.base",
-    "0ontology/base/products",
-    "Project/1Питание/Продукты/Зерновые/Untitled.base",
-    "Project/1Питание/Продукты/Бобовые/Сухие/Бобовые сухие.md",
-    "Project/1Питание/Продукты/Бобовые/Бобовые.md",
-    "Project/1Питание/Продукты/Животные продукты/Рыба.md",
-    "Project/1Питание/Продукты/Зерновые/Гречка.md",
-    "Project/1Питание/Продукты/Животные продукты/Молочные продукты/Молочные продукты.md",
-    "Project/1Питание/Продукты/Животные продукты/Молочные продукты/Йогурт.md",
-    "Project/1Питание/Продукты/Животные продукты/Молочные продукты/Кефир.md",
-    "Project/1Питание/Продукты/Животные продукты/Молочные продукты/Молоко.md",
+    "0ontology/base/nutrients/fiber/fiber_seeds.md",
+    "0ontology/base/nutrients/fiber",
+    "Res/Files/Pasted image 20260512211318.png",
+    "Res/Files/Pasted image 20260512203146.png",
+    "Res/Files/Pasted image 20260512203133.png",
+    "0ontology/base/products/categories/seeds",
+    "Res/Files/Pasted image 20260512154945.png",
+    "Res/Files/Pasted image 20260512154845.png",
+    "0ontology/base/nutrients/antioxidant",
+    "Res/Files/Pasted image 20260512152623.png",
+    "Res/Files/Pasted image 20260512151852.png",
+    "Res/Files/Pasted image 20260512151524.png",
+    "Res/Files/Pasted image 20260511193438.png",
+    "0ontology/base/products/entities/seeds/amaranth.md",
+    "0ontology/base/products/entities/seeds/buckwheat.md",
+    "0ontology/base/products/entities/seeds/kinoa.md",
+    "0ontology/base/products/categories/seeds/oilseeds.md",
+    "0ontology/base/products/categories/seeds/legumes.md",
+    "0ontology/base/products/entities/seeds/oat.md",
+    "0ontology/base/products/entities",
+    "0ontology/base/products/entities.md",
+    "0ontology/base/products/categories",
+    "0ontology/base/products/seeds/starchy_seeds/pseudocereals.md",
+    "0ontology/base/products/entities/seeds/starchy_seeds",
+    "0ontology/base/products/grain/Untitled.md",
+    "Project/1Питание/Продукты/Зерновые/Цельнозерновые.md",
+    "Project/1Питание/Соединения/Углеводы/Овсяные бета-глюканы.md",
+    "Project/1Питание/Продукты/Зерновые/Амарант.md",
     "TODO_old.md",
-    "Project/1Питание/Диеты/Фруктоедение.md",
-    "Project/6Измерения/Продукты/Калории.md",
-    "Project/1Питание/Соединения/Белок/Untitled.base",
-    "Res/Files/Pasted image 20260225162841.png",
-    "Res/Files/Pasted image 20260225162125.png",
-    "0ontology/helper/physiology",
-    "Res/Files/Pasted image 20260205144716.png",
-    "0ontology/overview/study",
-    "Res/Files/Pasted image 20260205130839.png.~tmp",
-    "Res/Files/Pasted image 20260205130839.png",
-    "Res/Files/Pasted image 20260205130749.png.~tmp",
-    "Res/Files/Pasted image 20260205130749.png",
-    "Res/Files/Pasted image 20260205130710.png",
-    "Res/Files/Pasted image 20260205130411.png",
-    "Res/Files/Pasted image 20260113075712.png",
+    "Project/1Питание/Соединения/Элементы/Si Кремний.md",
+    "Res/Files/Pasted image 20260504103004.png",
+    "0ontology/comparison/comparison_behavior_meal_frequency_high_vs_low.md",
+    "0ontology/base/condition/diabetes",
+    "0ontology/base/products/entities/seeds",
+    "0ontology/base/nutrients/vitamin",
+    "Project/1Питание/Продукты/Зерновые/Untitled 1.base",
     "Project/7Красота/Untitled.canvas",
     "Project/1Питание/Untitled.canvas",
     "Untitled.canvas"

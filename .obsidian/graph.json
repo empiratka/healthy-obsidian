@@ -1,9 +1,9 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "path:0ontology/base  ",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
@@ -67,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.6713382732070743,
-  "close": false
+  "scale": 0.42828940929088377,
+  "close": true
 }
